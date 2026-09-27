@@ -37,6 +37,7 @@ Using the playbook for your own event? See [Using and crediting the playbook](cr
 | [The Hack Michigan model](../run/index.md) | Principles and timeline |
 | [The participant experience](../run/experience.md) | Every touchpoint, stage by stage |
 | [Ways to participate](../run/participation.md) | Building a project or contributing to open source |
+| [Track options](../run/tracks.md) | Capture the flag, bug bash, design sprint, and more |
 | [Planning checklist](../run/planning.md) | For your planning meetings |
 | [Hackathon guide template](../run/hackathon-guide.md) | Tools, provisioning, and data rules for participants |
 | [Judging and prizes](../run/judging-and-prizes.md) | Judges, criteria, and prizes |

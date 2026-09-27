@@ -201,3 +201,11 @@
 .md-typeset ol.pb-flow li a { color: inherit; }
 .md-typeset ol.pb-flow.pb-flow-6 { grid-template-columns: repeat(3, 1fr); }
 @media (max-width: 520px) { .md-typeset ol.pb-flow.pb-flow-6 { grid-template-columns: 1fr; } }
+
+/* Collapsible blocks in brand colors */
+.md-typeset .admonition.abstract, .md-typeset details.abstract,
+.md-typeset .admonition.question, .md-typeset details.question { border-color: var(--pb-blue); }
+.md-typeset .abstract > .admonition-title, .md-typeset .abstract > summary,
+.md-typeset .question > .admonition-title, .md-typeset .question > summary { background-color: var(--pb-blue-soft); }
+.md-typeset .abstract > .admonition-title::before, .md-typeset .abstract > summary::before,
+.md-typeset .question > .admonition-title::before, .md-typeset .question > summary::before { background-color: var(--pb-blue); }

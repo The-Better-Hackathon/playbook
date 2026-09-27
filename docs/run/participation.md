@@ -38,6 +38,8 @@ Participants make real contributions to existing open source projects: code, doc
 | Collaboration | Worked with maintainers and responded to review |
 | Growth | What the contributor learned, and whether they'll keep contributing |
 
+Running a whole event around open source? See [Run an open source hackathon](../open-source/index.md). For other kinds of tracks, see [Track options](tracks.md).
+
 ## Offering both
 
 - Let people choose at registration, and allow switching on the day.

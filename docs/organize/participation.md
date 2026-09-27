@@ -14,9 +14,13 @@ More than one way to take part brings in more people. AfroHacks, the first hacka
 3. **Set eligibility.** Age, students or professionals, local or remote.
 4. **Decide whether a project can win more than one prize,** such as a track prize and an overall prize.
 
+5. **Choose your tracks,** such as a challenge build, open source, capture the flag, a bug bash, or a design sprint.
+
 ## Go deeper
 
 - [Ways to participate](../run/participation.md): how to set up the open source path and judge contributions
+- [Track options](../run/tracks.md): twelve tracks, with what to prepare and how to judge each
+- [Run an open source hackathon](../open-source/index.md)
 
 !!! success "Ready for the next step when"
     You can describe, in one sentence each, how someone can take part.

@@ -55,8 +55,8 @@ At **Hack Michigan 2026**, teams built against real challenges from **DTE Energy
 <a class="pb-card pb-c-challenges" href="library/"><img src="assets/img/research.png" alt=""><span class="pb-card-for">For everyone</span><span class="pb-card-title">Library</span><p>Challenge briefs and examples, formats, guides, and starter kits.</p></a>
 </div>
 
-!!! tip "Running an AfroHacks?"
-    [Run an AfroHacks Hackathon](afrohacks/index.md) in your community, at your university, or at an HBCU: six short steps, with a build path and an open source path.
+!!! tip "Looking for a ready-made model?"
+    Run an [AfroHacks](afrohacks/index.md) in your community, at your university, or at an HBCU, or an [open source hackathon](open-source/index.md) to build with and contribute to open source. Add tracks like capture the flag, a bug bash, or a design sprint from [Track options](run/tracks.md). See all [event models](models/index.md).
 
 ## What makes this model different
 
