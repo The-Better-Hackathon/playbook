@@ -31,11 +31,17 @@ A 60-minute workshop and a team workbook. The workshop teaches the eight steps; 
 
 ## Sizing the workshop to the event
 
-| Format | Workshop length | Focus |
-|---|---|---|
-| Hack day (1 day) | 30 minutes, first thing | Idea, scope, roles and plan, demo video, checklist |
-| 24 hours (2 days) | 45 to 60 minutes, once teams have an idea | All eight steps; market and competition as team time |
-| 48 hours (3 days) | 60 minutes, morning of day two | All eight steps |
+=== "Hack day"
+
+    **30 minutes, first thing.** Focus on the idea, the scope, roles and plan, the demo video, and the checklist.
+
+=== "24 hours"
+
+    **45 to 60 minutes, once teams have an idea.** All eight steps; market and competition are team time.
+
+=== "48 hours"
+
+    **60 minutes, the morning of day two.** All eight steps.
 
 See [Using the workbook in each format](../run/formats/index.md#using-the-workbook-in-each-format).
 

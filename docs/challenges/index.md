@@ -17,14 +17,21 @@ For partners, a good brief is the difference between a weekend of demos and a se
 
 Sponsors usually arrive with a document that mixes the problem with their own idea of the solution. The organizer's job is to separate the two.
 
+<div class="annotate" markdown>
+
 1. **Collect the source material.** The sponsor's problem description, data they can share, how they'd judge success, and any constraints.
 2. **Take out the solutioning.** Remove prescribed architectures, tools, and feature lists. Keep the problem, the people who have it, and the outcomes that matter.
 3. **Write outcomes, not specifications.** Describe what success looks like for the person with the problem. The implementation is the team's to invent.
-4. **Make the constraints do work.** A good constraint rules out a whole class of solutions that wouldn't reach real users (for example: *no engineering staff, under $50 a month, deployable in 30 days*).
+4. **Make the constraints do work.** A good constraint rules out a whole class of solutions that wouldn't reach real users. (1)
 5. **Name the data.** Say what's public, synthetic, or provided, and where the known gaps are.
 6. **Publish the judging criteria.** Four to six criteria drawn from the brief itself, so teams can design toward the rubric.
-7. **End with one key question.** A test any judge can apply to any demo.
+7. **End with one key question.** A test any judge can apply to any demo. (2)
 8. **Review with the sponsor.** Confirm the brief is faithful to the problem, then publish it before the event.
+
+</div>
+
+1.  From The AI Collective Detroit brief: *no engineering staff, under $50 a month, deployable in 30 days.* Each constraint rules out enterprise-style tools that would never reach a small business owner.
+2.  From the DTE Energy brief: *"Could a maintenance planner change next week's schedule based on what your tool shows?"*
 
 ## The seven sections
 

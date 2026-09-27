@@ -30,6 +30,10 @@ theme:
     text: DM Sans
     code: IBM Plex Mono
   features:
+    - announce.dismiss
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
     - navigation.tabs
     - navigation.sections
     - navigation.top
@@ -38,21 +42,32 @@ theme:
     - search.suggest
     - search.highlight
     - toc.follow
+    - content.tooltips
+    - content.tabs.link
+    - search.share
   icon:
     logo: material/compass-outline
 
 extra_css:
   - assets/css/playbook.css
 extra_javascript:
+  - assets/js/tables.js
   - assets/js/workbook.js
   - assets/js/brief-builder.js
   - assets/js/forms.js
 
 markdown_extensions:
+  - abbr
   - admonition
   - attr_list
   - md_in_html
   - tables
+  - pymdownx.details
+  - pymdownx.snippets:
+      auto_append:
+        - includes/glossary.md
+  - pymdownx.tabbed:
+      alternate_style: true
   - toc:
       permalink: true
   - pymdownx.superfences

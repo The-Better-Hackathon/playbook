@@ -24,13 +24,27 @@ At **Hack Michigan 2026**, teams built against real challenges from **DTE Energy
 ## What your organization gets
 
 <div class="pb-audience">
-<div class="pb-c-partner"><strong>Enterprise and industry</strong>Working prototypes built against your real business challenge, fresh approaches from outside your walls, and direct access to the people who built them.</div>
-<div class="pb-c-challenges"><strong>Startups</strong>Validation, early users, collaborators, and a public showcase for your product or API.</div>
-<div class="pb-c-win"><strong>Universities and schools</strong>Applied, industry-connected learning, with portfolio-ready outcomes for students.</div>
-<div class="pb-c-run"><strong>Foundations and public sector</strong>Solutions to community and economic challenges, with measurable outcomes and a path past the weekend.</div>
-<div class="pb-c-build"><strong>Community organizers</strong>A repeatable model, templates, and tools for running your own challenge-led events.</div>
-<div class="pb-c-partner"><strong>Developers, designers, researchers</strong>Real industry problems to build for, a workbook that takes you from idea to demo, and a stage to present your work.</div>
+<div class="pb-c-partner"><strong>Developers, designers, researchers, and students</strong>Real industry problems to build for, a workbook that takes you from idea to demo, and a stage to present your work.</div>
+<div class="pb-c-win"><strong>Community organizers and tech communities</strong>A repeatable model, templates, and tools for running your own challenge-led events.</div>
+<div class="pb-c-run"><strong>Nonprofits and community organizations</strong>Builders working on the needs your community already knows about, and solutions you can keep using.</div>
+<div class="pb-c-challenges"><strong>Universities and schools</strong>Applied, industry-connected learning, with portfolio-ready outcomes for students.</div>
+<div class="pb-c-build"><strong>Startups</strong>Validation, early users, collaborators, and a public showcase for your product or API.</div>
+<div class="pb-c-partner"><strong>Accelerators, incubators, and investors</strong>Early looks at new teams and ideas, and a pipeline of founders building in your region.</div>
+<div class="pb-c-win"><strong>Technology and platform partners</strong>Your tools used on real problems, feedback from builders, and developers who know your platform.</div>
+<div class="pb-c-run"><strong>Enterprise and industry</strong>Working prototypes built against your real business challenge, fresh approaches from outside your walls, and direct access to the people who built them.</div>
+<div class="pb-c-challenges"><strong>Foundations, government, and economic development</strong>Solutions to community and economic challenges, with measurable outcomes and a path past the weekend.</div>
 </div>
+
+## How it works
+
+<ol class="pb-flow">
+<li class="pb-c-partner"><strong>A partner brings a real problem</strong></li>
+<li class="pb-c-challenges"><strong>The organizer writes a challenge brief</strong></li>
+<li class="pb-c-win"><strong>Teams build working prototypes</strong></li>
+<li class="pb-c-run"><strong>Judges apply the challenge's test</strong></li>
+<li class="pb-c-build"><strong>Winners take a bigger stage</strong></li>
+<li class="pb-c-partner"><strong>Pilots, hires, and partnerships follow</strong></li>
+</ol>
 
 ## Inside the playbook
 

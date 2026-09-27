@@ -159,3 +159,15 @@
 }
 .pb-q textarea:focus, .pb-q input:focus { outline: none; border-style: solid; }
 .pb-q textarea { min-height: 4.5rem; resize: vertical; }
+
+/* How it works */
+.md-typeset ol.pb-flow { list-style: none; counter-reset: flow; display: grid; grid-template-columns: repeat(6, 1fr); gap: .6rem; margin: 1rem 0 2rem; padding: 0; }
+.md-typeset ol.pb-flow li { counter-increment: flow; margin: 0; background: var(--c-soft); border-radius: 16px; padding: .8rem .8rem 1rem; font-size: .74rem; line-height: 1.35; }
+.md-typeset ol.pb-flow li::before { content: counter(flow); display: grid; place-items: center; width: 1.7rem; height: 1.7rem; border-radius: 50%; background: var(--c); color: #fff; font-family: 'Poppins', sans-serif; font-weight: 800; margin-bottom: .5rem; }
+@media (max-width: 1000px) { .md-typeset ol.pb-flow { grid-template-columns: repeat(3, 1fr); } }
+@media (max-width: 520px) { .md-typeset ol.pb-flow { grid-template-columns: 1fr; } }
+
+/* Sortable tables */
+.md-typeset th[data-sort] { cursor: pointer; }
+.md-typeset th[data-sort="asc"]::after { content: " ▲"; font-size: .6em; }
+.md-typeset th[data-sort="desc"]::after { content: " ▼"; font-size: .6em; }

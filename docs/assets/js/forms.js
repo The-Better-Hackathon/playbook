@@ -128,6 +128,8 @@
       render(mount, schema);
     });
   }
-  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', boot);
+  // With instant navigation, pages load without a full reload, so re-run on every page change.
+  if (window.document$) window.document$.subscribe(boot);
+  else if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', boot);
   else boot();
 })();
