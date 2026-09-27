@@ -9,3 +9,4 @@
 *[hack day]: A one-day hackathon, about eight hours of building
 *[write-up]: A public project page with the problem, solution, presentation, and demo
 *[write-ups]: Public project pages with the problem, solution, presentation, and demo
+*[pop-up]: A free, one-day community meetup in a public space where people build their own projects and demo their progress

@@ -12,7 +12,7 @@ hide:
 
 <p class="pb-sub">Organizations bring a real challenge. Teams of developers, designers, and researchers build working solutions. The best work keeps going after the weekend.</p>
 
-[Bring a challenge](partner/index.md){ .md-button .md-button--primary } [Open the team workbook](win/workbook.md){ .md-button }
+[Start here](start.md){ .md-button .md-button--primary } [Bring a challenge](partner/index.md){ .md-button }
 </div>
 <img src="assets/img/team.png" alt="Three teammates working together at a laptop">
 </div>

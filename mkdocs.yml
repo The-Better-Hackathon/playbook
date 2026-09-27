@@ -76,6 +76,7 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - Start here: start.md
   - Partner:
       - partner/index.md
       - Outcomes: partner/outcomes.md
@@ -98,9 +99,12 @@ nav:
       - run/index.md
       - Formats:
           - run/formats/index.md
+          - Pop-up hack day: run/formats/pop-up.md
           - Hack day (1 day): run/formats/hack-day.md
           - 24 hours (2 days): run/formats/24-hour.md
           - 48 hours (3 days): run/formats/48-hour.md
+      - Participant experience: run/experience.md
+      - Ways to participate: run/participation.md
       - Planning checklist: run/planning.md
       - Hackathon guide: run/hackathon-guide.md
       - Judging and prizes: run/judging-and-prizes.md
