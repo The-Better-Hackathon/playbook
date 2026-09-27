@@ -2,7 +2,7 @@
 
 Anyone can use this playbook to run their own hackathon, and you can call your event anything you want.
 
-When you use it, please credit **The Better Hackathon Playbook**. If you're running an AfroHacks, please credit **AfroHacks** too. A line on your website, event page, slides, or README is plenty.
+When you use it, please credit **The Better Hackathon Playbook**. If you're running an AfroHacks, please credit **AfroHacks at AfroTech** and link to the [AfroHacks section](../afrohacks/index.md). A line on your website, event page, slides, or README is plenty.
 
 ## Suggested credit lines
 
@@ -15,7 +15,7 @@ Built with The Better Hackathon Playbook: https://the-better-hackathon.github.io
 For an AfroHacks:
 
 ```text
-Based on AfroHacks and The Better Hackathon Playbook: https://the-better-hackathon.github.io/playbook/afrohacks/
+Based on AfroHacks at AfroTech: https://the-better-hackathon.github.io/playbook/afrohacks/
 ```
 
 ## Naming your event

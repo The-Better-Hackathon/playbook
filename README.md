@@ -41,9 +41,13 @@ docs/
 
 ## Using the playbook
 
-Anyone can use this playbook, and you can name your event anything you like, including AfroHacks. Please credit The Better Hackathon Playbook (and AfroHacks, if you run one):
+Anyone can use this playbook, and you can name your event anything you like, including AfroHacks. Please credit The Better Hackathon Playbook:
 
 > Built with The Better Hackathon Playbook: https://the-better-hackathon.github.io/playbook/
+
+If you run an AfroHacks:
+
+> Based on AfroHacks at AfroTech: https://the-better-hackathon.github.io/playbook/afrohacks/
 
 ## About
 
