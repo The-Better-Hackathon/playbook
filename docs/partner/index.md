@@ -79,7 +79,7 @@ See how to [measure and report outcomes](outcomes.md).
 ## Questions partners ask
 
 ??? question "Can we run one just for our own organization?"
-    Yes. A one-day [hack day](../run/formats/hack-day.md) works well for internal teams, partner ecosystems, and customer communities.
+    Yes. A one-day [hack day](../library/formats/hack-day.md) works well for internal teams, partner ecosystems, and customer communities.
 
 ??? question "How much time does it take?"
     About two hours of planning before the event, plus whatever time you spend at it. See the timeline above.
@@ -88,6 +88,6 @@ See how to [measure and report outcomes](outcomes.md).
 
 | If you want… | Choose |
 |---|---|
-| An internal or partner hack day, or an add-on to a conference | [Hack day (12 hours)](../run/formats/hack-day.md) |
-| A track at a university or community hackathon | [24 hours (2 days)](../run/formats/24-hour.md) |
-| Deep work on a hard, data-heavy challenge | [48 hours (3 days)](../run/formats/48-hour.md) |
+| An internal or partner hack day, or an add-on to a conference | [Hack day (12 hours)](../library/formats/hack-day.md) |
+| A track at a university or community hackathon | [24 hours (2 days)](../library/formats/24-hour.md) |
+| Deep work on a hard, data-heavy challenge | [48 hours (3 days)](../library/formats/48-hour.md) |

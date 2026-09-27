@@ -45,4 +45,4 @@ Each step is one short page. Use the **Next** button at the bottom of each page.
 
 ## In practice: Hack Michigan 2026
 
-Teams built for challenges from DTE Energy, StartMidwest, and The AI Collective Detroit, over three days at TechTown Detroit. The winners presented at Michigan Tech Week. See the [challenges](../challenges/index.md#hack-michigan-2026-challenges) and the [winners](../run/after.md#hack-michigan-2026-winners).
+Teams built for challenges from DTE Energy, StartMidwest, and The AI Collective Detroit, over three days at TechTown Detroit. The winners presented at Michigan Tech Week. See the [challenges](../challenges/index.md#hack-michigan-2026-challenges) and the [winners](../library/after.md#hack-michigan-2026-winners).

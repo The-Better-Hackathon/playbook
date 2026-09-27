@@ -50,4 +50,4 @@ Judging should reward the thing the challenge asked for. In this model, each cha
 
 - Publish criteria when you publish the challenges, not on judging day.
 - Hold practice demos (or a pre-screen) before judging.
-- Point teams to the judging criteria map in the [team workbook](../win/workbook.md) so they design toward the rubric.
+- Point teams to the judging criteria map in the [team workbook](../participate/workbook.md) so they design toward the rubric.

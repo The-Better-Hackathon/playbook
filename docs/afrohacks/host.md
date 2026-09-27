@@ -24,8 +24,8 @@ A sample one-day AfroHacks with both paths. Adjust the times to your format.
 
 ## Go deeper
 
-- [Judging and prizes](../run/judging-and-prizes.md)
-- [Ways to participate](../run/participation.md#path-2-contribute-to-open-source): judging contributions
+- [Judging and prizes](../library/judging-and-prizes.md)
+- [Ways to participate](../library/participation.md#path-2-contribute-to-open-source): judging contributions
 
 !!! success "Ready for the next step when"
     Every project and contribution has been celebrated.

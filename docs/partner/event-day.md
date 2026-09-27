@@ -20,8 +20,8 @@ Your presence makes your challenge real. Teams build better work when they can m
 
 ## Go deeper
 
-- [Judging and prizes](../run/judging-and-prizes.md)
-- [The participant experience](../run/experience.md)
+- [Judging and prizes](../library/judging-and-prizes.md)
+- [The participant experience](../library/experience.md)
 
 !!! success "Ready for the next step when"
     You've met the teams working on your challenge, and the winners are announced.

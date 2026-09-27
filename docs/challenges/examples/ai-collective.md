@@ -61,4 +61,4 @@ Multi-language onboarding (Spanish and Arabic for metro Detroit) · templated se
 
 **Can you build something a Michigan small business owner, with no tech team and a $50/month budget, actually deploys and uses for the next year?** If yes, you've moved AI access equity forward where it matters most. The product is yours to invent.
 
-Winner: [Verify AI Agents](../../run/after.md#hack-michigan-2026-winners).
+Winner: [Verify AI Agents](../../library/after.md#hack-michigan-2026-winners).

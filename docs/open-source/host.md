@@ -2,7 +2,7 @@
 
 # Host and Judge
 
-A sample one-day open source hackathon. Adjust the times to your [format](../run/formats/index.md).
+A sample one-day open source hackathon. Adjust the times to your [format](../library/formats/index.md).
 
 | Time | What happens |
 |---|---|
@@ -28,7 +28,7 @@ Give extra credit for **merged** work, but don't penalize pull requests still in
 
 ## Go deeper
 
-- [Judging and prizes](../run/judging-and-prizes.md)
+- [Judging and prizes](../library/judging-and-prizes.md)
 
 !!! success "Ready for the next step when"
     Every project and contribution has been celebrated.

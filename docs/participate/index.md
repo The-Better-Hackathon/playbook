@@ -11,7 +11,7 @@
 
 A 60-minute workshop and a team workbook. The workshop teaches the eight steps; the workbook is where your team answers the questions for each one.
 
-Prefer to contribute to an existing open source project instead of building from scratch? Many events offer that path too. See [Ways to participate](../run/participation.md).
+Prefer to contribute to an existing open source project instead of building from scratch? Many events offer that path too. See [Ways to participate](../library/participation.md).
 
 ## The eight steps
 
@@ -45,7 +45,7 @@ Prefer to contribute to an existing open source project instead of building from
 
     **60 minutes, the morning of day two.** All eight steps.
 
-See [Using the workbook in each format](../run/formats/index.md#using-the-workbook-in-each-format).
+See [Using the workbook in each format](../library/formats/index.md#using-the-workbook-in-each-format).
 
 ## KISS
 

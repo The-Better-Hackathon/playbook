@@ -14,7 +14,7 @@ The projects make or break an open source hackathon. Choose ones with maintainer
 
 ## Go deeper
 
-- [Ways to participate](../run/participation.md#path-2-contribute-to-open-source)
+- [Ways to participate](../library/participation.md#path-2-contribute-to-open-source)
 
 !!! success "Ready for the next step when"
     Every project has a maintainer, a list of starter issues, and a contribution guide you've read.

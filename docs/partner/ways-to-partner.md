@@ -19,8 +19,8 @@ The most valuable combination is a challenge plus a person for the day. A next-s
 
 ## Go deeper
 
-- [Ways to participate](../run/participation.md): the open source contribution path
-- [Starter kits](../build/index.md)
+- [Ways to participate](../library/participation.md): the open source contribution path
+- [Starter kits](../library/starter-kits.md)
 
 !!! success "Ready for the next step when"
     You know which ways you'll take part, and who from your organization will be involved.

@@ -13,7 +13,7 @@ In the Innovation Model, winning comes with a bigger audience: the people who ca
 
 ## Go deeper
 
-- [After the event](../run/after.md): how the Hack Michigan 2026 winners took the stage at Michigan Tech Week
+- [After the event](../library/after.md): how the Hack Michigan 2026 winners took the stage at Michigan Tech Week
 
 !!! success "Ready for the next step when"
     Every winning team has presented to the wider community.

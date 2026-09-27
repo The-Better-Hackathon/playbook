@@ -1,4 +1,4 @@
-<span class="pb-step pb-c-run">Organize · Step 4 of 7</span>
+<span class="pb-step pb-c-run">Design Your Own · Step 4 of 7</span>
 
 # Design the Experience
 
@@ -14,8 +14,8 @@ People remember how the event made them feel. Plan the experience before the sch
 
 ## Go deeper
 
-- [The participant experience](../run/experience.md): checklists for every touchpoint, and who owns what
-- [Code of Conduct](../run/code-of-conduct.md)
+- [The participant experience](../library/experience.md): checklists for every touchpoint, and who owns what
+- [Code of Conduct](../library/code-of-conduct.md)
 
 !!! success "Ready for the next step when"
     Every touchpoint has a name next to it.

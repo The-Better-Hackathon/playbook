@@ -16,8 +16,9 @@ Each model is a complete path you can follow and adapt. Name your event anything
 | **The Innovation Model (Hack Your Region)** | Based on Hack Michigan: regional partners bring real industry challenges, teams build working prototypes, and winners take a bigger stage | [Run a Hack Your Region](../innovation/index.md) |
 | **AfroHacks** | Build a project or contribute to open source, for Black technologists in communities, universities, and HBCUs | [Run an AfroHacks](../afrohacks/index.md) |
 | **Open source hackathon** | Build with, contribute to, and improve open source technologies, models, and tools | [Run an open source hackathon](../open-source/index.md) |
-| **Pop-up hack day** | A free community meetup in a public space; bring your own project | [Pop-up hack day](../run/formats/pop-up.md) |
+| **Conference hackathon** | A hackathon alongside a conference, with demos on the main stage | [Run a conference hackathon](../conference/index.md) |
+| **Community pop-up** | A free 4- to 8-hour meetup in a public space; bring your own project | [Run a pop-up](../pop-up/index.md) |
 
-Not using a model? The [Organize track](../organize/index.md) walks you through designing your own.
+Not using a model? [Design Your Own](../organize/index.md) in seven steps.
 
-Any model can add tracks such as capture the flag, a bug bash, or a design sprint. See [Track options](../run/tracks.md).
+Any model can add tracks such as capture the flag, a bug bash, or a design sprint. See [Track options](../library/tracks.md).

@@ -1,15 +1,17 @@
-# Organize a Hackathon
+# Design Your Own
 
 <div class="pb-banner pb-c-run" markdown>
 <div class="pb-banner-text" markdown>
 <span class="pb-banner-kicker">For community organizers</span>
 
-**Seven steps, one at a time, from choosing a format to celebrating the winners.**
+**Design your own hackathon in seven steps, from choosing a format to celebrating the winners.**
 </div>
 ![](../assets/img/team.png)
 </div>
 
-This track walks you through organizing a challenge-led hackathon or a community pop-up. Each step is one short page: what to do, where to go deeper, and how to know you're ready for the next one. Use the **Next** button at the bottom of each page.
+Build a hackathon that fits your community, one step at a time. Each step is one short page: what to do, where to go deeper, and how to know you're ready for the next one. Use the **Next** button at the bottom of each page.
+
+Prefer to start from something ready-made? See the [models](../models/index.md).
 
 ## Your path
 
@@ -34,7 +36,7 @@ This track walks you through organizing a challenge-led hackathon or a community
 | Event | 6: host the day |
 | Following weeks | 7: follow up and celebrate |
 
-A [pop-up](../run/formats/pop-up.md) needs far less: pick a place and a date two to four weeks out, then skip straight to steps 4 and 6.
+A [pop-up](../pop-up/index.md) needs far less: pick a place and a date two to four weeks out, then skip straight to steps 4 and 6.
 
 ## Principles to keep in mind
 

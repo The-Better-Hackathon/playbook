@@ -56,4 +56,4 @@ Use the [brief template](brief-template.md) or the [brief builder](brief-builder
 | [Small Business AI Adoption](examples/ai-collective.md) | The AI Collective Detroit | Can an owner with no tech team have it running, and earning back its cost, within a month? |
 | [Michigan Innovation Renaissance](examples/michigan-renaissance.md) | Hack Michigan | Does your solution solve a real Michigan problem and keep the opportunity here? |
 
-See what the winning teams built in [After the event](../run/after.md).
+See what the winning teams built in [After the event](../library/after.md).

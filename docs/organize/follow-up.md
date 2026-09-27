@@ -1,4 +1,4 @@
-<span class="pb-step pb-c-run">Organize · Step 7 of 7</span>
+<span class="pb-step pb-c-run">Design Your Own · Step 7 of 7</span>
 
 # Follow Up and Celebrate
 
@@ -14,7 +14,7 @@ The value of a hackathon shows up after it ends. Plan these before the event sta
 
 ## Go deeper
 
-- [After the event](../run/after.md): the Hack Michigan 2026 winners
+- [After the event](../library/after.md): the Hack Michigan 2026 winners
 - [Outcomes](../partner/outcomes.md): what to measure and report
 
 !!! success "You're done when"

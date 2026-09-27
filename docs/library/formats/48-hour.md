@@ -19,7 +19,7 @@ A 48-hour hackathon over three days. This is the Hack Michigan format: the depth
 |---|---|---|
 | 8:00 AM | Morning mindfulness and meditative yoga | A reset after the first night |
 | 8:00 AM | Breakfast and networking | |
-| 9:00 AM | [How to Win a Hackathon](../../win/index.md) | Teams have an idea by now; this sharpens it and plans the pitch |
+| 9:00 AM | [How to Win a Hackathon](../../participate/index.md) | Teams have an idea by now; this sharpens it and plans the pitch |
 | 10:00 AM | Build AI agents workshop (sponsor tools) | Hands-on with the featured platform |
 | 11:30 AM | Lunch and networking | |
 | 12:30 PM | Build a live agent workshop (second platform) | A second option for teams |

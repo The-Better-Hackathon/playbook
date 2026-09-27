@@ -15,7 +15,7 @@ The real outcome of an open source hackathon is contributors who stay.
 ## Go deeper
 
 - [Outcomes](../partner/outcomes.md)
-- [After the event](../run/after.md)
+- [After the event](../library/after.md)
 
 !!! success "You're done when"
     Every open pull request has been reviewed, and you know how many contributors came back.

@@ -71,4 +71,4 @@ Aggregation + RAG with citations · agentic search · hybrid retrieval · a conv
 
 **When a real Midwest founder uses your tool, do they get to the moment where they say "wait, that exists? How have I never heard of this?"** If yes, you've closed the visibility gap. The architecture is yours to design.
 
-Winner: [Trestle](../../run/after.md#hack-michigan-2026-winners).
+Winner: [Trestle](../../library/after.md#hack-michigan-2026-winners).

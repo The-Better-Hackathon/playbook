@@ -10,9 +10,9 @@ Pick the format that fits your community's schedule, and a place people already 
 
     | Format | Good for |
     |---|---|
-    | [Pop-up](../run/formats/pop-up.md) | A first AfroHacks, or keeping momentum between bigger events |
-    | [Hack day](../run/formats/hack-day.md) | Most AfroHacks: one day, no overnight, easy for working professionals |
-    | [24 hours](../run/formats/24-hour.md) | Campus events and HBCUs with students who can stay overnight |
+    | [Pop-up](../pop-up/index.md) | A first AfroHacks, or keeping momentum between bigger events |
+    | [Hack day](../library/formats/hack-day.md) | Most AfroHacks: one day, no overnight, easy for working professionals |
+    | [24 hours](../library/formats/24-hour.md) | Campus events and HBCUs with students who can stay overnight |
     | Inside a conference | A hackathon track at a conference, like the original AfroHacks at AfroTech |
 
 2. **Choose a place** with a real connection to your community: a campus, a library, a community center, a Black-owned space, or a public landmark.
@@ -21,7 +21,7 @@ Pick the format that fits your community's schedule, and a place people already 
 
 ## Go deeper
 
-- [Compare all formats](../run/formats/index.md)
+- [Compare all formats](../library/formats/index.md)
 
 !!! success "Ready for the next step when"
     You have a format, a place, and a date.

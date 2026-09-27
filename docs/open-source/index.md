@@ -41,4 +41,4 @@ Each step is one short page. Use the **Next** button at the bottom of each page.
 | **An open source foundation or project** | Grow and diversify your contributor community |
 | **A company or open source program office** | Improve the projects you depend on, and meet future contributors and hires |
 
-Want to add other kinds of tracks, like capture the flag or a design sprint? See [Track options](../run/tracks.md).
+Want to add other kinds of tracks, like capture the flag or a design sprint? See [Track options](../library/tracks.md).

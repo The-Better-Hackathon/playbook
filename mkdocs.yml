@@ -79,14 +79,51 @@ nav:
   - Home: index.md
   - Start here: start.md
   - Organize:
-      - organize/index.md
-      - 1. Choose your format: organize/format.md
-      - 2. Decide how people take part: organize/participation.md
-      - 3. Bring in partners: organize/partners.md
-      - 4. Design the experience: organize/experience.md
-      - 5. Prepare: organize/prepare.md
-      - 6. Host the day: organize/host.md
-      - 7. Follow up and celebrate: organize/follow-up.md
+      - Design Your Own:
+          - organize/index.md
+          - 1. Choose your format: organize/format.md
+          - 2. Decide how people take part: organize/participation.md
+          - 3. Bring in partners: organize/partners.md
+          - 4. Design the experience: organize/experience.md
+          - 5. Prepare: organize/prepare.md
+          - 6. Host the day: organize/host.md
+          - 7. Follow up and celebrate: organize/follow-up.md
+      - Models:
+          - models/index.md
+          - Innovation model (Hack Your Region):
+              - innovation/index.md
+              - 1. Rally your region's partners: innovation/partners.md
+              - 2. Co-create industry challenges: innovation/challenges.md
+              - 3. Choose your format: innovation/format.md
+              - 4. Host the event: innovation/host.md
+              - 5. Winners take the stage: innovation/stage.md
+              - 6. Report outcomes: innovation/outcomes.md
+          - AfroHacks:
+              - afrohacks/index.md
+              - 1. Gather your community: afrohacks/community.md
+              - 2. Choose your format and place: afrohacks/format.md
+              - 3. Set up the two paths: afrohacks/two-paths.md
+              - 4. Create a space where people belong: afrohacks/belonging.md
+              - 5. Host the day: afrohacks/host.md
+              - 6. Celebrate and keep going: afrohacks/keep-going.md
+          - Open source hackathon:
+              - open-source/index.md
+              - 1. Recruit projects and maintainers: open-source/projects.md
+              - 2. Write maintainer challenges: open-source/challenges.md
+              - 3. Set the open source rules: open-source/rules.md
+              - 4. Get contributors ready: open-source/ready.md
+              - 5. Host and judge: open-source/host.md
+              - 6. Keep contributors coming back: open-source/keep-going.md
+          - Conference hackathon:
+              - conference/index.md
+              - 1. Partner with the conference: conference/partner.md
+              - 2. Plan around the schedule: conference/schedule.md
+              - 3. Tie challenges to the conference: conference/challenges.md
+              - 4. Register and provision: conference/register.md
+              - 5. Host the hackathon: conference/host.md
+              - 6. Demo on the main stage: conference/main-stage.md
+          - Community pop-up: pop-up/index.md
+      - Track options: library/tracks.md
   - Partner:
       - partner/index.md
       - 1. Choose how you'll take part: partner/ways-to-partner.md
@@ -94,39 +131,12 @@ nav:
       - 3. Show up for the teams: partner/event-day.md
       - 4. Follow up: partner/follow-up.md
       - 5. Measure outcomes: partner/outcomes.md
-  - Models:
-      - models/index.md
-      - Innovation model (Hack Your Region):
-          - innovation/index.md
-          - 1. Rally your region's partners: innovation/partners.md
-          - 2. Co-create industry challenges: innovation/challenges.md
-          - 3. Choose your format: innovation/format.md
-          - 4. Host the event: innovation/host.md
-          - 5. Winners take the stage: innovation/stage.md
-          - 6. Report outcomes: innovation/outcomes.md
-      - AfroHacks:
-          - afrohacks/index.md
-          - 1. Gather your community: afrohacks/community.md
-          - 2. Choose your format and place: afrohacks/format.md
-          - 3. Set up the two paths: afrohacks/two-paths.md
-          - 4. Create a space where people belong: afrohacks/belonging.md
-          - 5. Host the day: afrohacks/host.md
-          - 6. Celebrate and keep going: afrohacks/keep-going.md
-      - Open source hackathon:
-          - open-source/index.md
-          - 1. Recruit projects and maintainers: open-source/projects.md
-          - 2. Write maintainer challenges: open-source/challenges.md
-          - 3. Set the open source rules: open-source/rules.md
-          - 4. Get contributors ready: open-source/ready.md
-          - 5. Host and judge: open-source/host.md
-          - 6. Keep contributors coming back: open-source/keep-going.md
-      - Track options: run/tracks.md
   - Participate:
-      - win/index.md
-      - Team workbook: win/workbook.md
-      - Submit and demo: win/submit.md
-      - Resources: win/resources.md
-      - Workshop decks: win/decks.md
+      - participate/index.md
+      - Team workbook: participate/workbook.md
+      - Submit and demo: participate/submit.md
+      - Resources: participate/resources.md
+      - Workshop decks: participate/decks.md
   - Library:
       - library/index.md
       - Using and crediting: library/credit.md
@@ -139,18 +149,16 @@ nav:
           - The AI Collective Detroit: challenges/examples/ai-collective.md
           - Michigan Innovation Renaissance: challenges/examples/michigan-renaissance.md
       - Formats:
-          - run/formats/index.md
-          - Pop-up (4 to 8 hours): run/formats/pop-up.md
-          - Hack day (12 hours): run/formats/hack-day.md
-          - 24 hours (2 days): run/formats/24-hour.md
-          - 48 hours (3 days): run/formats/48-hour.md
+          - library/formats/index.md
+          - Hack day (12 hours): library/formats/hack-day.md
+          - 24 hours (2 days): library/formats/24-hour.md
+          - 48 hours (3 days): library/formats/48-hour.md
       - Guides:
-          - run/index.md
-          - Participant experience: run/experience.md
-          - Ways to participate: run/participation.md
-          - Planning checklist: run/planning.md
-          - Hackathon guide: run/hackathon-guide.md
-          - Judging and prizes: run/judging-and-prizes.md
-          - Code of Conduct: run/code-of-conduct.md
-          - After the event: run/after.md
-          - Starter kits: build/index.md
+          - Participant experience: library/experience.md
+          - Ways to participate: library/participation.md
+          - Planning checklist: library/planning.md
+          - Hackathon guide: library/hackathon-guide.md
+          - Judging and prizes: library/judging-and-prizes.md
+          - Code of Conduct: library/code-of-conduct.md
+          - After the event: library/after.md
+          - Starter kits: library/starter-kits.md

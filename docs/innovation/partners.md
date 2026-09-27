@@ -15,7 +15,7 @@ The Innovation Model is a regional effort. Bring together the organizations that
 ## Go deeper
 
 - [Bring in partners](../organize/partners.md)
-- [Planning checklist](../run/planning.md)
+- [Planning checklist](../library/planning.md)
 
 !!! success "Ready for the next step when"
     You have at least two challenge partners, one technology partner, and a stage for the winners.

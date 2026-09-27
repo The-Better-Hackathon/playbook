@@ -10,12 +10,12 @@ AfroHacks works best when it's built with the community it serves, not for it.
 2. **Invite partner organizations** that already serve your community: student chapters of professional societies, HBCU computer science and engineering departments, alumni networks, local Black tech meetups, and community centers.
 3. **Invite technology and open source partners** for tools, credits, mentors, and starter issues. Share the [Partner track](../partner/index.md) with them.
 4. **Recruit mentors, speakers, and judges** who reflect the people you're inviting.
-5. **Agree on roles** using [Who owns what](../run/experience.md#who-owns-what).
+5. **Agree on roles** using [Who owns what](../library/experience.md#who-owns-what).
 
 ## Go deeper
 
 - [Bring in partners](../organize/partners.md)
-- [Running a track inside another event](../run/planning.md#running-a-track-inside-another-event), if AfroHacks is part of a larger conference
+- [Running a track inside another event](../library/planning.md#running-a-track-inside-another-event), if AfroHacks is part of a larger conference
 
 !!! success "Ready for the next step when"
     You have an organizing team, at least two community partners, and one technology or open source partner.

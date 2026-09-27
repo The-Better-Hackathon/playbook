@@ -11,7 +11,7 @@
 
 The model works at four sizes, from a free pop-up in a public space to a three-day event. The pieces stay the same (co-created challenges, a tools and provisioning session, How to Win, a code freeze, practice before judging); what changes is how much time each one gets.
 
-| | [Pop-up](pop-up.md) | [Hack day](hack-day.md) | [24 hours](24-hour.md) | [48 hours](48-hour.md) |
+| | [Pop-up](../../pop-up/index.md) | [Hack day](hack-day.md) | [24 hours](24-hour.md) | [48 hours](48-hour.md) |
 |---|---|---|---|---|
 | **Length** | 4 to 8 hours | 12 hours | 24 hours | 48 hours |
 | **Shape** | Part of a day in a public space | One day, no overnight | Two days, overnight | Three days, two nights |
@@ -25,7 +25,7 @@ The model works at four sizes, from a free pop-up in a public space to a three-d
 
 ## How to pick
 
-- **Just starting a community, or between bigger events?** Run a [pop-up](pop-up.md). No challenges, judging, or setup required.
+- **Just starting a community, or between bigger events?** Run a [pop-up](../../pop-up/index.md). No challenges, judging, or setup required.
 - **Can your participants stay overnight?** If not, run a hack day. Confirm this early: it decides the schedule, meals, code freeze, and whether there's a happy hour.
 - **How deep are the challenges?** A problem that needs data wrangling and a working prototype (like utility pole risk scoring) needs 24 to 48 hours. A hack day suits challenges where a strong prototype of one flow is enough.
 - **Who are you inviting?** Working professionals and parents are more likely to come to a single day. Students are more likely to stay overnight.

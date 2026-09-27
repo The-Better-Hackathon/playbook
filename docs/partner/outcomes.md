@@ -39,4 +39,4 @@ Send each partner one page within two weeks:
 
 ## What it looks like in practice
 
-At Hack Michigan 2026, every challenge had a winner, every winning team published a write-up with a demo on Kaggle, and the winners presented at Michigan Tech Week. See [After the event](../run/after.md).
+At Hack Michigan 2026, every challenge had a winner, every winning team published a write-up with a demo on Kaggle, and the winners presented at Michigan Tech Week. See [After the event](../library/after.md).

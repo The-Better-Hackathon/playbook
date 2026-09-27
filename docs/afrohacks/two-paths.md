@@ -8,8 +8,8 @@ Every AfroHacks offers two ways to take part. Participants choose at registratio
 
 1. **Choose one to three challenges.** Problems that matter to Black communities and businesses make strong challenges. Write them as [challenge briefs](../challenges/index.md) with your partners.
 2. **Line up tools and credits** from technology partners, including AI models and cloud platforms.
-3. **Share a starter kit** so teams can start building in the first hour. See [Starter kits](../build/index.md).
-4. **Use the [How to Win workshop and team workbook](../win/index.md)** to coach every team.
+3. **Share a starter kit** so teams can start building in the first hour. See [Starter kits](../library/starter-kits.md).
+4. **Use the [How to Win workshop and team workbook](../participate/index.md)** to coach every team.
 
 ## Path 2: Contribute to open source
 
@@ -20,8 +20,8 @@ Every AfroHacks offers two ways to take part. Participants choose at registratio
 
 ## Go deeper
 
-- [Ways to participate](../run/participation.md): how to judge open source contributions
-- [Hackathon guide template](../run/hackathon-guide.md)
+- [Ways to participate](../library/participation.md): how to judge open source contributions
+- [Hackathon guide template](../library/hackathon-guide.md)
 
 !!! success "Ready for the next step when"
     Both paths have partners, and participants know what they'll need before they arrive.

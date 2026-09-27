@@ -47,4 +47,4 @@ A working proof of concept built with AI and open-source technology that solves 
 
 **Does your solution solve a real problem, create real value, and keep innovation rooted in Michigan?**
 
-Winner: [ShoreWatch](../../run/after.md#hack-michigan-2026-winners).
+Winner: [ShoreWatch](../../library/after.md#hack-michigan-2026-winners).

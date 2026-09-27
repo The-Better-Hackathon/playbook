@@ -15,7 +15,7 @@ Clear rules protect participants, maintainers, and the projects. Publish them wi
 
 ## Go deeper
 
-- [Hackathon guide template](../run/hackathon-guide.md): data rules to include
+- [Hackathon guide template](../library/hackathon-guide.md): data rules to include
 
 !!! success "Ready for the next step when"
     The rules are published and every maintainer has seen them.

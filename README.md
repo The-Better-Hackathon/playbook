@@ -4,11 +4,10 @@ A playbook for challenge-led hackathons that turn real industry problems into wo
 
 | Section | For | What's inside |
 |---|---|---|
+| **Organize** | Community organizers | Design Your Own in seven steps, ready-made models (Hack Your Region, AfroHacks, open source, conference, community pop-up), and track options |
 | **Partner** | Companies, startups, universities, foundations, public sector | Why bring a challenge, what it takes, what you get back, and how to measure outcomes |
-| **Win** | Participants | The How to Win a Hackathon workshop, an interactive team workbook, submission and demo guides, resources |
-| **Challenges** | Sponsors and partners | How to co-create an AI challenge brief, a template, an interactive builder, and four published examples from Hack Michigan 2026 |
-| **Run** | Organizers | The Hack Michigan model: agenda, hackathon guide, judging, Code of Conduct, and what happens after the event |
-| **Build** | Everyone | What goes in a starter kit, and kits from past events |
+| **Participate** | Participants | The How to Win a Hackathon workshop, an interactive team workbook, submission and demo guides, resources |
+| **Library** | Everyone | Challenge briefs and examples, formats, guides, starter kits, and crediting |
 
 The site is built with [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) and deploys to GitHub Pages on every push to `main`.
 
@@ -30,13 +29,19 @@ In the repo: **Settings → Pages → Build and deployment → Source: GitHub Ac
 ```
 docs/
   index.md                 Home
-  partner/                 Bring a challenge, outcomes
-  win/                     Workshop, team workbook, submit and demo, resources, decks
-  challenges/              Co-created AI challenges, template, builder, examples
-  run/                     The Hack Michigan model for organizers
-  build/                   Starter kits
-  assets/decks/            Workbook decks (PowerPoint)
-  assets/js/               Workbook and brief builder (answers stay in the browser)
+  start.md                 Start here
+  organize/                Design Your Own (seven steps)
+  models/                  Event models overview
+  innovation/              The Innovation Model: Hack Your Region
+  afrohacks/               AfroHacks
+  open-source/             Open source hackathon
+  conference/              Conference hackathon
+  pop-up/                  Community pop-up
+  partner/                 Partner track (five steps)
+  participate/             How to Win, team workbook, submit and demo, decks
+  challenges/              Challenge briefs, template, builder, examples
+  library/                 Formats, guides, track options, starter kits, crediting
+  assets/                  Styles, scripts, images, decks
 ```
 
 ## Using the playbook

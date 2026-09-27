@@ -1,4 +1,4 @@
-<span class="pb-step pb-c-run">Organize · Step 2 of 7</span>
+<span class="pb-step pb-c-run">Design Your Own · Step 2 of 7</span>
 
 # Decide How People Take Part
 
@@ -18,8 +18,8 @@ More than one way to take part brings in more people. AfroHacks, the first hacka
 
 ## Go deeper
 
-- [Ways to participate](../run/participation.md): how to set up the open source path and judge contributions
-- [Track options](../run/tracks.md): twelve tracks, with what to prepare and how to judge each
+- [Ways to participate](../library/participation.md): how to set up the open source path and judge contributions
+- [Track options](../library/tracks.md): twelve tracks, with what to prepare and how to judge each
 - [Run an open source hackathon](../open-source/index.md)
 
 !!! success "Ready for the next step when"

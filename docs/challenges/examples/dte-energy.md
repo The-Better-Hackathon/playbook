@@ -71,4 +71,4 @@ Optional. Strong teams may pursue one, or none and go deep on the core problem i
 
 **How can accessible data and modern tools move utility maintenance from reactive to predictive, improving reliability and making the most of limited resources?**
 
-Winner: [PoleProof](../../run/after.md#hack-michigan-2026-winners).
+Winner: [PoleProof](../../library/after.md#hack-michigan-2026-winners).

@@ -41,7 +41,7 @@ In Detroit, pop-ups happen in places that belong to everyone: **Campus Martius**
 
 ## How it differs from a hack day
 
-| | Pop-up | [Hack day](hack-day.md) |
+| | Pop-up | [Hack day](../library/formats/hack-day.md) |
 |---|---|---|
 | Projects | Your own | Built for a challenge |
 | Teams | Optional | Teams of 1 to 5 |

@@ -17,7 +17,7 @@ The best outcomes happen after the event: a pilot, a hire, a project that keeps 
 
 ## Go deeper
 
-- [After the event](../run/after.md): how the Hack Michigan 2026 winners took the stage
+- [After the event](../library/after.md): how the Hack Michigan 2026 winners took the stage
 
 !!! success "Ready for the next step when"
     You've met the teams you want to work with, and agreed on any next steps.

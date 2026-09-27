@@ -9,7 +9,7 @@ Not everyone wants to build a new product in a weekend. Offering more than one w
 
 ## Path 1: Build a project
 
-The standard path. Teams build a working prototype for a challenge or track, then submit and present it. Everything in [Win](../win/index.md) and [Challenges](../challenges/index.md) applies.
+The standard path. Teams build a working prototype for a challenge or track, then submit and present it. Everything in [Win](../participate/index.md) and [Challenges](../challenges/index.md) applies.
 
 ## Path 2: Contribute to open source
 
@@ -45,4 +45,4 @@ Running a whole event around open source? See [Run an open source hackathon](../
 - Let people choose at registration, and allow switching on the day.
 - Keep both paths in the same room so builders and contributors meet.
 - Give each path its own prizes, and celebrate both at the awards.
-- Put the open source projects in the [starter kit](../build/index.md) next to the build resources.
+- Put the open source projects in the [starter kit](starter-kits.md) next to the build resources.

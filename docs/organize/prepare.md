@@ -1,4 +1,4 @@
-<span class="pb-step pb-c-run">Organize · Step 5 of 7</span>
+<span class="pb-step pb-c-run">Design Your Own · Step 5 of 7</span>
 
 # Prepare
 
@@ -14,10 +14,10 @@ Publish what people need early, so everyone arrives ready to build.
 
 ## Go deeper
 
-- [Planning checklist](../run/planning.md): use it in your planning meetings
-- [Hackathon guide template](../run/hackathon-guide.md)
-- [Judging and prizes](../run/judging-and-prizes.md)
-- [Starter kits](../build/index.md)
+- [Planning checklist](../library/planning.md): use it in your planning meetings
+- [Hackathon guide template](../library/hackathon-guide.md)
+- [Judging and prizes](../library/judging-and-prizes.md)
+- [Starter kits](../library/starter-kits.md)
 
 !!! success "Ready for the next step when"
     Registered participants have the guide, their accounts work, and every judge and mentor has confirmed.

@@ -14,7 +14,7 @@ AfroHacks is a starting point. The goal is that people leave with a project, a c
 
 ## Go deeper
 
-- [After the event](../run/after.md)
+- [After the event](../library/after.md)
 - [Outcomes](../partner/outcomes.md)
 
 !!! success "You're done when"

@@ -20,7 +20,7 @@ What to settle with your organizers, sponsors, and partners before the event. Th
 
 - [ ] Confirm which tools each sponsor provides and the credit or usage budget over the event days.
 - [ ] Write the [hackathon guide](hackathon-guide.md) once the challenges are final, and send it before the event.
-- [ ] Set up a GitHub org for the event or track, pre-install any tools (for example an AI code reviewer), and provide a template repo or [starter kit](../build/index.md).
+- [ ] Set up a GitHub org for the event or track, pre-install any tools (for example an AI code reviewer), and provide a template repo or [starter kit](starter-kits.md).
 - [ ] Decide whether any technology is required. If a host requires a framework, make sure mentors can support it alongside sponsor tools, or make an exception for a track.
 - [ ] Consider small technology prizes ("best use of…") to encourage experimenting across tools.
 

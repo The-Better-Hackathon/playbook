@@ -15,8 +15,8 @@ People remember whether they felt seen, welcomed, and supported. Design that on 
 
 ## Go deeper
 
-- [The participant experience](../run/experience.md): checklists for every touchpoint
-- [Code of Conduct](../run/code-of-conduct.md)
+- [The participant experience](../library/experience.md): checklists for every touchpoint
+- [Code of Conduct](../library/code-of-conduct.md)
 
 !!! success "Ready for the next step when"
     Every touchpoint, from registration to follow-up, has an owner.

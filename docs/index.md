@@ -18,8 +18,28 @@ hide:
 </div>
 
 <div class="pb-proof" markdown>
-At **Hack Michigan 2026**, teams built against real challenges from **DTE Energy**, **StartMidwest**, and **The AI Collective Detroit**: predicting utility pole risk from public data, keeping a founder resource directory accurate, and bringing AI to small businesses without a tech team. The winners presented at **Michigan Tech Week**, and [their write-ups are public](run/after.md).
+At **Hack Michigan 2026**, teams built against real challenges from **DTE Energy**, **StartMidwest**, and **The AI Collective Detroit**: predicting utility pole risk from public data, keeping a founder resource directory accurate, and bringing AI to small businesses without a tech team. The winners presented at **Michigan Tech Week**, and [their write-ups are public](library/after.md).
 </div>
+
+## Choose your path
+
+<div class="pb-cards">
+<a class="pb-card pb-c-run" href="organize/"><img src="assets/img/team.png" alt=""><span class="pb-card-for">For community organizers</span><span class="pb-card-title">Organize</span><p>Design your own hackathon, or start from a ready-made model: Hack Your Region, AfroHacks, open source, conference, or pop-up.</p></a>
+<a class="pb-card pb-c-partner" href="partner/"><img src="assets/img/whiteboard.png" alt=""><span class="pb-card-for">For sponsors and partners</span><span class="pb-card-title">Partner</span><p>Five steps from a real problem to working prototypes, talent, and partnerships.</p></a>
+<a class="pb-card pb-c-win" href="participate/"><img src="assets/img/pencil-gold.png" alt=""><span class="pb-card-for">For participants</span><span class="pb-card-title">Participate</span><p>The How to Win a Hackathon workshop and a team workbook, from the challenge to a working demo.</p></a>
+<a class="pb-card pb-c-challenges" href="library/"><img src="assets/img/research.png" alt=""><span class="pb-card-for">For everyone</span><span class="pb-card-title">Library</span><p>Challenge briefs and examples, formats, guides, and starter kits.</p></a>
+</div>
+
+## How it works
+
+<ol class="pb-flow">
+<li class="pb-c-partner"><strong>A partner brings a real problem</strong></li>
+<li class="pb-c-challenges"><strong>The organizer writes a challenge brief</strong></li>
+<li class="pb-c-win"><strong>Teams build working prototypes</strong></li>
+<li class="pb-c-run"><strong>Judges apply the challenge's test</strong></li>
+<li class="pb-c-build"><strong>Winners take a bigger stage</strong></li>
+<li class="pb-c-partner"><strong>Pilots, hires, and partnerships follow</strong></li>
+</ol>
 
 ## What your organization gets
 
@@ -34,29 +54,6 @@ At **Hack Michigan 2026**, teams built against real challenges from **DTE Energy
 <div class="pb-c-run"><strong>Enterprise and industry</strong>Working prototypes built against your real business challenge, fresh approaches from outside your walls, and direct access to the people who built them.</div>
 <div class="pb-c-challenges"><strong>Foundations, government, and economic development</strong>Solutions to community and economic challenges, with measurable outcomes and a path past the weekend.</div>
 </div>
-
-## How it works
-
-<ol class="pb-flow">
-<li class="pb-c-partner"><strong>A partner brings a real problem</strong></li>
-<li class="pb-c-challenges"><strong>The organizer writes a challenge brief</strong></li>
-<li class="pb-c-win"><strong>Teams build working prototypes</strong></li>
-<li class="pb-c-run"><strong>Judges apply the challenge's test</strong></li>
-<li class="pb-c-build"><strong>Winners take a bigger stage</strong></li>
-<li class="pb-c-partner"><strong>Pilots, hires, and partnerships follow</strong></li>
-</ol>
-
-## Choose your path
-
-<div class="pb-cards">
-<a class="pb-card pb-c-run" href="organize/"><img src="assets/img/team.png" alt=""><span class="pb-card-for">For community organizers</span><span class="pb-card-title">Organize</span><p>Seven steps from choosing a format to celebrating the winners, one short page at a time.</p></a>
-<a class="pb-card pb-c-partner" href="partner/"><img src="assets/img/whiteboard.png" alt=""><span class="pb-card-for">For sponsors and partners</span><span class="pb-card-title">Partner</span><p>Five steps from a real problem to working prototypes, talent, and partnerships.</p></a>
-<a class="pb-card pb-c-win" href="win/"><img src="assets/img/pencil-gold.png" alt=""><span class="pb-card-for">For participants</span><span class="pb-card-title">Participate</span><p>The How to Win a Hackathon workshop and a team workbook, from the challenge to a working demo.</p></a>
-<a class="pb-card pb-c-challenges" href="library/"><img src="assets/img/research.png" alt=""><span class="pb-card-for">For everyone</span><span class="pb-card-title">Library</span><p>Challenge briefs and examples, formats, guides, and starter kits.</p></a>
-</div>
-
-!!! tip "Looking for a ready-made model?"
-    Hack Your Region with [the Innovation Model](innovation/index.md), based on Hack Michigan. Run an [AfroHacks](afrohacks/index.md) in your community, at your university, or at an HBCU, or an [open source hackathon](open-source/index.md) to build with and contribute to open source. Add tracks like capture the flag, a bug bash, or a design sprint from [Track options](run/tracks.md). See all [event models](models/index.md).
 
 ## What makes this model different
 

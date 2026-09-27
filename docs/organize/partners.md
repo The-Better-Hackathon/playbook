@@ -1,4 +1,4 @@
-<span class="pb-step pb-c-run">Organize · Step 3 of 7</span>
+<span class="pb-step pb-c-run">Design Your Own · Step 3 of 7</span>
 
 # Bring In Partners
 
@@ -16,7 +16,7 @@ Partners bring the real problems, the tools, and the next steps that make a hack
 
 - [Co-created AI challenges](../challenges/index.md): the method
 - [Brief builder](../challenges/brief-builder.md) and [examples](../challenges/examples/dte-energy.md)
-- [Running a track inside another event](../run/planning.md#running-a-track-inside-another-event)
+- [Running a track inside another event](../library/planning.md#running-a-track-inside-another-event)
 
 !!! success "Ready for the next step when"
     Each partner has reviewed their brief, and you know which tools and credits participants will get.

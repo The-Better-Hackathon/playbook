@@ -57,7 +57,7 @@ A track is a way to take part, with its own goal, judging, and prizes. Most even
     - **Prepare:** a design challenge, access to real users or research, and design tools
     - **Deliverables:** research findings, user flows, and a clickable prototype
     - **Judge on:** understanding of the user, usability, accessibility, and storytelling
-    - **See:** Design for AI in the [How to Win workshop](../win/index.md)
+    - **See:** Design for AI in the [How to Win workshop](../participate/index.md)
 
 ??? abstract "Accessibility"
     Teams audit a site, app, or open source project for accessibility and fix what they find.
