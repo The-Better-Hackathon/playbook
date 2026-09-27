@@ -27,6 +27,8 @@ Pick what describes you. Each path is a few short steps. You don't need to read 
 
     **Or [Design Your Own](organize/index.md)** in seven short steps.
 
+    Want a plan made for your event? **[Build Your Playbook](organize/build-your-playbook.md)** with the builder, an AI prompt, or the Skill.
+
 === "I'm a sponsor or partner"
 
     Follow the **[Partner track](partner/index.md)**: five short steps, one page each.

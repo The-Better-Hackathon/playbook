@@ -53,6 +53,7 @@ extra_css:
   - assets/css/playbook.css
 extra_javascript:
   - assets/js/tables.js
+  - assets/js/playbook-builder.js
   - assets/js/workbook.js
   - assets/js/brief-builder.js
   - assets/js/forms.js
@@ -79,6 +80,7 @@ nav:
   - Home: index.md
   - Start here: start.md
   - Organize:
+      - Build Your Playbook: organize/build-your-playbook.md
       - Design Your Own:
           - organize/index.md
           - 1. Choose your format: organize/format.md

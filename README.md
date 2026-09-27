@@ -44,6 +44,10 @@ docs/
   assets/                  Styles, scripts, images, decks
 ```
 
+## Build a playbook for your event
+
+Use the [builder](https://the-better-hackathon.github.io/playbook/organize/build-your-playbook/) on the site, or add the [Build a Hackathon Playbook Skill](skills/build-hackathon-playbook/SKILL.md) to Claude and ask: *"Help me build a playbook for our hackathon."*
+
 ## Using the playbook
 
 Anyone can use this playbook, and you can name your event anything you like, including AfroHacks. Please credit The Better Hackathon Playbook:

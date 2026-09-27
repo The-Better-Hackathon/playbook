@@ -24,7 +24,7 @@ At **Hack Michigan 2026**, teams built against real challenges from **DTE Energy
 ## Choose your path
 
 <div class="pb-cards">
-<a class="pb-card pb-c-run" href="organize/"><img src="assets/img/team.png" alt=""><span class="pb-card-for">For community organizers</span><span class="pb-card-title">Organize</span><p>Design your own hackathon, or start from a ready-made model: Hack Your Region, AfroHacks, open source, conference, or pop-up.</p></a>
+<a class="pb-card pb-c-run" href="organize/"><img src="assets/img/team.png" alt=""><span class="pb-card-for">For community organizers</span><span class="pb-card-title">Organize</span><p>Build a playbook for your event, design your own, or start from a ready-made model: Hack Your Region, AfroHacks, open source, conference, or pop-up.</p></a>
 <a class="pb-card pb-c-partner" href="partner/"><img src="assets/img/whiteboard.png" alt=""><span class="pb-card-for">For sponsors and partners</span><span class="pb-card-title">Partner</span><p>Five steps from a real problem to working prototypes, talent, and partnerships.</p></a>
 <a class="pb-card pb-c-win" href="participate/"><img src="assets/img/pencil-gold.png" alt=""><span class="pb-card-for">For participants</span><span class="pb-card-title">Participate</span><p>The How to Win a Hackathon workshop and a team workbook, from the challenge to a working demo.</p></a>
 <a class="pb-card pb-c-challenges" href="library/"><img src="assets/img/research.png" alt=""><span class="pb-card-for">For everyone</span><span class="pb-card-title">Library</span><p>Challenge briefs and examples, formats, guides, and starter kits.</p></a>

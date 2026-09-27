@@ -209,3 +209,11 @@
 .md-typeset .question > .admonition-title, .md-typeset .question > summary { background-color: var(--pb-blue-soft); }
 .md-typeset .abstract > .admonition-title::before, .md-typeset .abstract > summary::before,
 .md-typeset .question > .admonition-title::before, .md-typeset .question > summary::before { background-color: var(--pb-blue); }
+
+/* Playbook builder */
+.pb-choices { display: flex; flex-wrap: wrap; gap: .5rem; margin: .4rem 0 .6rem; }
+.pb-choice { display: inline-flex; align-items: center; gap: .4rem; border: 1.5px solid var(--s, var(--pb-blue)); border-radius: 999px; padding: .3rem .8rem; background: var(--md-default-bg-color); cursor: pointer; font-size: .75rem; }
+.pb-choice input { accent-color: var(--s, var(--pb-blue)); margin: 0; }
+.pb-choice:has(input:checked) { background: var(--s, var(--pb-blue)); color: #fff; }
+.pb-choice:focus-within { outline: 2px solid var(--pb-gold); outline-offset: 2px; }
+.md-typeset pre.pb-output { white-space: pre-wrap; background: var(--pb-blue-soft); border: 1.5px solid var(--pb-line); border-radius: 14px; padding: 1rem; font-size: .7rem; max-height: 28rem; overflow: auto; }
