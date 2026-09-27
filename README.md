@@ -39,6 +39,12 @@ docs/
   assets/js/               Workbook and brief builder (answers stay in the browser)
 ```
 
+## Using the playbook
+
+Anyone can use this playbook, and you can name your event anything you like, including AfroHacks. Please credit The Better Hackathon Playbook (and AfroHacks, if you run one):
+
+> Built with The Better Hackathon Playbook: https://the-better-hackathon.github.io/playbook/
+
 ## About
 
 Created by Jenna Ritten ([@jritten](https://linktr.ee/jritten)): founder of Compass Detroit, co-lead of GDG Detroit, and creator of [Hack Michigan](https://www.hackmichigan.com/).

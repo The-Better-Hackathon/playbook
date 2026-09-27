@@ -9,6 +9,8 @@
 ![](../assets/img/research.png)
 </div>
 
+Using the playbook for your own event? See [Using and crediting the playbook](credit.md).
+
 ## Challenges
 
 | Page | What's in it |

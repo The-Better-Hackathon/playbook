@@ -45,6 +45,7 @@ theme:
     - content.tooltips
     - content.tabs.link
     - search.share
+    - content.code.copy
   icon:
     logo: material/compass-outline
 
@@ -109,6 +110,7 @@ nav:
       - Workshop decks: win/decks.md
   - Library:
       - library/index.md
+      - Using and crediting: library/credit.md
       - Challenges:
           - challenges/index.md
           - Brief template: challenges/brief-template.md

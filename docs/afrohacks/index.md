@@ -29,6 +29,9 @@ This section shows you how to run your own AfroHacks in your local community, at
 
 Each step is one short page. Use the **Next** button at the bottom of each page.
 
+!!! note "Naming and credit"
+    Call your hackathon anything you want, including **AfroHacks**. We only ask that you credit AfroHacks and The Better Hackathon Playbook. See [suggested credit lines](../library/credit.md).
+
 ## Who it's for
 
 | If you are… | AfroHacks helps you… |
