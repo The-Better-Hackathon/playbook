@@ -1,9 +1,9 @@
 site_name: The Better Hackathon Playbook
 site_description: A playbook for challenge-led hackathons that turn real industry problems into working prototypes, talent, and partnerships.
 site_author: Jenna Ritten
-# site_url: set this to the GitHub Pages URL once the repo exists
+site_url: https://the-better-hackathon.github.io/playbook/
 repo_name: The Better Hackathon Playbook
-# repo_url: set this to the GitHub repo URL once it exists
+repo_url: https://github.com/The-Better-Hackathon/playbook
 edit_uri: ""
 copyright: Created by Jenna Ritten (@jritten) · Compass Detroit
 
