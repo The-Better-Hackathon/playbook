@@ -45,6 +45,10 @@ Anyone can use this playbook, and you can name your event anything you like, inc
 
 > Built with The Better Hackathon Playbook: https://the-better-hackathon.github.io/playbook/
 
+If you run a Hack Your Region event based on the Innovation Model:
+
+> Based on Hack Michigan: https://the-better-hackathon.github.io/playbook/innovation/
+
 If you run an AfroHacks:
 
 > Based on AfroHacks at AfroTech: https://the-better-hackathon.github.io/playbook/afrohacks/

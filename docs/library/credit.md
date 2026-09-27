@@ -18,8 +18,14 @@ For an AfroHacks:
 Based on AfroHacks at AfroTech: https://the-better-hackathon.github.io/playbook/afrohacks/
 ```
 
+For a Hack Your Region event based on the Innovation Model:
+
+```text
+Based on Hack Michigan: https://the-better-hackathon.github.io/playbook/innovation/
+```
+
 ## Naming your event
 
-- **Use any name you like,** including AfroHacks. For example, *AfroHacks Atlanta* or *AfroHacks at Howard*.
+- **Use any name you like,** including AfroHacks or Hack [Your Region]. For example, *AfroHacks Atlanta*, *AfroHacks at Howard*, or *Hack Ohio*.
 - **Adapt anything:** the schedules, checklists, workbook, and templates are meant to be changed for your community.
 - **Tell us about it.** We'd love to hear how you used the playbook and what you'd add.

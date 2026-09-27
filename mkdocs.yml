@@ -96,6 +96,14 @@ nav:
       - 5. Measure outcomes: partner/outcomes.md
   - Models:
       - models/index.md
+      - Innovation model (Hack Your Region):
+          - innovation/index.md
+          - 1. Rally your region's partners: innovation/partners.md
+          - 2. Co-create industry challenges: innovation/challenges.md
+          - 3. Choose your format: innovation/format.md
+          - 4. Host the event: innovation/host.md
+          - 5. Winners take the stage: innovation/stage.md
+          - 6. Report outcomes: innovation/outcomes.md
       - AfroHacks:
           - afrohacks/index.md
           - 1. Gather your community: afrohacks/community.md

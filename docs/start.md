@@ -43,6 +43,10 @@ Pick what describes you. Each path is a few short steps, in order. You don't nee
 
     Follow the **[AfroHacks guide](afrohacks/index.md)**: six short steps for communities, universities, and HBCUs.
 
+=== "I'm running a regional hackathon"
+
+    Follow **[The Innovation Model](innovation/index.md)**: six short steps to Hack Your Region with industry partners, based on Hack Michigan.
+
 === "I'm running an open source hackathon"
 
     Follow the **[Open source hackathon guide](open-source/index.md)**: six short steps to build with, contribute to, and improve open source.
