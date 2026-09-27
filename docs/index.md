@@ -55,6 +55,9 @@ At **Hack Michigan 2026**, teams built against real challenges from **DTE Energy
 <a class="pb-card pb-c-challenges" href="library/"><img src="assets/img/research.png" alt=""><span class="pb-card-for">For everyone</span><span class="pb-card-title">Library</span><p>Challenge briefs and examples, formats, guides, and starter kits.</p></a>
 </div>
 
+!!! tip "Running an AfroHacks?"
+    [Run an AfroHacks Hackathon](afrohacks/index.md) in your community, at your university, or at an HBCU: six short steps, with a build path and an open source path.
+
 ## What makes this model different
 
 1. **Real challenges, not vague themes.** Partners bring a real problem from their business or community. The organizer turns it into a brief: the problem, what good looks like, the data, and how it will be judged. The solution is left for the teams to invent.

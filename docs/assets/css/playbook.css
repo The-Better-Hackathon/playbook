@@ -199,3 +199,5 @@
 @media (max-width: 1100px) { .md-typeset ol.pb-flow.pb-flow-7 { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 520px) { .md-typeset ol.pb-flow.pb-flow-7 { grid-template-columns: 1fr; } }
 .md-typeset ol.pb-flow li a { color: inherit; }
+.md-typeset ol.pb-flow.pb-flow-6 { grid-template-columns: repeat(3, 1fr); }
+@media (max-width: 520px) { .md-typeset ol.pb-flow.pb-flow-6 { grid-template-columns: 1fr; } }

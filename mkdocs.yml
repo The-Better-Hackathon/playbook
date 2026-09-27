@@ -93,6 +93,14 @@ nav:
       - 3. Show up for the teams: partner/event-day.md
       - 4. Follow up: partner/follow-up.md
       - 5. Measure outcomes: partner/outcomes.md
+  - AfroHacks:
+      - afrohacks/index.md
+      - 1. Gather your community: afrohacks/community.md
+      - 2. Choose your format and place: afrohacks/format.md
+      - 3. Set up the two paths: afrohacks/two-paths.md
+      - 4. Create a space where people belong: afrohacks/belonging.md
+      - 5. Host the day: afrohacks/host.md
+      - 6. Celebrate and keep going: afrohacks/keep-going.md
   - Participate:
       - win/index.md
       - Team workbook: win/workbook.md

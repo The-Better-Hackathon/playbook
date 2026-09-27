@@ -39,6 +39,10 @@ Pick what describes you. Each path is a few short steps, in order. You don't nee
     4. [Follow up](partner/follow-up.md)
     5. [Measure outcomes](partner/outcomes.md)
 
+=== "I'm running an AfroHacks"
+
+    Follow the **[AfroHacks guide](afrohacks/index.md)**: six short steps for communities, universities, and HBCUs.
+
 === "I'm with a university"
 
     1. **Pick a format** that fits your calendar. [Choose your format](organize/format.md)
