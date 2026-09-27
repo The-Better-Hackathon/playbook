@@ -12,7 +12,7 @@ hide:
 
 <p class="pb-sub">Organizations bring a real challenge. Teams of developers, designers, and researchers build working solutions. The best work keeps going after the weekend.</p>
 
-[Start here](start.md){ .md-button .md-button--primary } [Bring a challenge](partner/index.md){ .md-button }
+[Organize a hackathon](organize/index.md){ .md-button .md-button--primary } [Partner with us](partner/index.md){ .md-button }
 </div>
 <img src="assets/img/team.png" alt="Three teammates working together at a laptop">
 </div>
@@ -46,14 +46,13 @@ At **Hack Michigan 2026**, teams built against real challenges from **DTE Energy
 <li class="pb-c-partner"><strong>Pilots, hires, and partnerships follow</strong></li>
 </ol>
 
-## Inside the playbook
+## Choose your path
 
 <div class="pb-cards">
-<a class="pb-card pb-c-partner" href="partner/"><img src="assets/img/whiteboard.png" alt=""><span class="pb-card-for">For organizations</span><span class="pb-card-title">Partner</span><p>Why bring a challenge, what it takes, and the outcomes to expect.</p></a>
-<a class="pb-card pb-c-challenges" href="challenges/"><img src="assets/img/research.png" alt=""><span class="pb-card-for">For sponsors and organizers</span><span class="pb-card-title">Challenges</span><p>Turn a business problem into a challenge brief teams can solve. Template, builder, and four industry examples.</p></a>
-<a class="pb-card pb-c-win" href="win/"><img src="assets/img/pencil-gold.png" alt=""><span class="pb-card-for">For participants</span><span class="pb-card-title">Win</span><p>The How to Win a Hackathon workshop and a team workbook, from the challenge to a working demo.</p></a>
-<a class="pb-card pb-c-run" href="run/"><img src="assets/img/team.png" alt=""><span class="pb-card-for">For organizers</span><span class="pb-card-title">Run</span><p>Hack day, 24 hours, or 48 hours: schedules, planning checklist, judging, and what happens after.</p></a>
-<a class="pb-card pb-c-build" href="build/"><img src="assets/img/pencil-blue.png" alt=""><span class="pb-card-for">For everyone</span><span class="pb-card-title">Build</span><p>Starter kits that get teams building in the first hour, and how partners can contribute one.</p></a>
+<a class="pb-card pb-c-run" href="organize/"><img src="assets/img/team.png" alt=""><span class="pb-card-for">For community organizers</span><span class="pb-card-title">Organize</span><p>Seven steps from choosing a format to celebrating the winners, one short page at a time.</p></a>
+<a class="pb-card pb-c-partner" href="partner/"><img src="assets/img/whiteboard.png" alt=""><span class="pb-card-for">For sponsors and partners</span><span class="pb-card-title">Partner</span><p>Five steps from a real problem to working prototypes, talent, and partnerships.</p></a>
+<a class="pb-card pb-c-win" href="win/"><img src="assets/img/pencil-gold.png" alt=""><span class="pb-card-for">For participants</span><span class="pb-card-title">Participate</span><p>The How to Win a Hackathon workshop and a team workbook, from the challenge to a working demo.</p></a>
+<a class="pb-card pb-c-challenges" href="library/"><img src="assets/img/research.png" alt=""><span class="pb-card-for">For everyone</span><span class="pb-card-title">Library</span><p>Challenge briefs and examples, formats, guides, and starter kits.</p></a>
 </div>
 
 ## What makes this model different

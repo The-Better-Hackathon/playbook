@@ -11,17 +11,7 @@
 
 [Hack Michigan](https://www.hackmichigan.com/) is a three-day AI hackathon produced by Compass Detroit with GDG Detroit. The 2026 event ran May 15–17 at TechTown Detroit, and the winners took the stage at Michigan Tech Week days later. This section is the model behind it, written so other organizers can run it as a community pop-up, a one-day hack day, a 24-hour weekend, or a full 48 hours.
 
-## Five stages
-
-Plan one stage at a time. Each links to the pages you need for it.
-
-<ol class="pb-flow pb-flow-5">
-<li class="pb-c-partner" markdown="span">**Decide**<br>[Format](formats/index.md), date, name, and [ways to participate](participation.md)</li>
-<li class="pb-c-challenges" markdown="span">**Co-create**<br>[Challenge briefs](../challenges/index.md) with partners</li>
-<li class="pb-c-win" markdown="span">**Design the experience**<br>[Every touchpoint](experience.md), from website to follow-up</li>
-<li class="pb-c-run" markdown="span">**Prepare**<br>[Planning checklist](planning.md), [hackathon guide](hackathon-guide.md), [judging](judging-and-prizes.md)</li>
-<li class="pb-c-build" markdown="span">**Host and follow up**<br>Run the day, then [celebrate and follow up](after.md)</li>
-</ol>
+Following the model step by step? Use the [Organize track](../organize/index.md).
 
 ## Principles
 

@@ -192,3 +192,10 @@
 .md-typeset ol.pb-flow.pb-flow-5 { grid-template-columns: repeat(5, 1fr); }
 @media (max-width: 1000px) { .md-typeset ol.pb-flow.pb-flow-5 { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 520px) { .md-typeset ol.pb-flow.pb-flow-5 { grid-template-columns: 1fr; } }
+
+/* Track step label */
+.pb-step { display: inline-block; font-size: .68rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--c); background: var(--c-soft); border: 1.5px solid var(--c); border-radius: 999px; padding: .15rem .7rem; margin-bottom: .2rem; }
+.md-typeset ol.pb-flow.pb-flow-7 { grid-template-columns: repeat(4, 1fr); }
+@media (max-width: 1100px) { .md-typeset ol.pb-flow.pb-flow-7 { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 520px) { .md-typeset ol.pb-flow.pb-flow-7 { grid-template-columns: 1fr; } }
+.md-typeset ol.pb-flow li a { color: inherit; }

@@ -11,7 +11,7 @@
 
 The strongest hackathon projects come from real industry problems. In this model, companies, startups, universities, and public-sector and community partners bring a problem from their own work, and the organizer turns it into an **AI challenge brief**: a short, public document that tells teams everything they need to build, and nothing about how to build it.
 
-For partners, a good brief is the difference between a weekend of demos and a set of working prototypes you can act on. See [Bring a challenge](../partner/index.md).
+For partners, a good brief is the difference between a weekend of demos and a set of working prototypes you can act on. See the [Partner track](../partner/index.md).
 
 ## From sponsor problem to challenge brief
 

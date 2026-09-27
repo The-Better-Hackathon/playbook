@@ -1,4 +1,6 @@
-# Outcomes
+<span class="pb-step pb-c-partner">Partner · Step 5 of 5</span>
+
+# Measure Outcomes
 
 A hackathon is worth renewing when partners can see what it produced. Decide what you'll measure before the event, collect it during, and send each partner a short report after.
 

@@ -77,38 +77,51 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Start here: start.md
+  - Organize:
+      - organize/index.md
+      - 1. Choose your format: organize/format.md
+      - 2. Decide how people take part: organize/participation.md
+      - 3. Bring in partners: organize/partners.md
+      - 4. Design the experience: organize/experience.md
+      - 5. Prepare: organize/prepare.md
+      - 6. Host the day: organize/host.md
+      - 7. Follow up and celebrate: organize/follow-up.md
   - Partner:
       - partner/index.md
-      - Outcomes: partner/outcomes.md
-  - Challenges:
-      - challenges/index.md
-      - Brief template: challenges/brief-template.md
-      - Brief builder: challenges/brief-builder.md
-      - Examples:
-          - DTE Energy: challenges/examples/dte-energy.md
-          - StartMidwest: challenges/examples/startmidwest.md
-          - The AI Collective Detroit: challenges/examples/ai-collective.md
-          - Michigan Innovation Renaissance: challenges/examples/michigan-renaissance.md
-  - Win:
+      - 1. Choose how you'll take part: partner/ways-to-partner.md
+      - 2. Shape your challenge: partner/shape-your-challenge.md
+      - 3. Show up for the teams: partner/event-day.md
+      - 4. Follow up: partner/follow-up.md
+      - 5. Measure outcomes: partner/outcomes.md
+  - Participate:
       - win/index.md
       - Team workbook: win/workbook.md
       - Submit and demo: win/submit.md
       - Resources: win/resources.md
       - Workshop decks: win/decks.md
-  - Run:
-      - run/index.md
+  - Library:
+      - library/index.md
+      - Challenges:
+          - challenges/index.md
+          - Brief template: challenges/brief-template.md
+          - Brief builder: challenges/brief-builder.md
+          - DTE Energy: challenges/examples/dte-energy.md
+          - StartMidwest: challenges/examples/startmidwest.md
+          - The AI Collective Detroit: challenges/examples/ai-collective.md
+          - Michigan Innovation Renaissance: challenges/examples/michigan-renaissance.md
       - Formats:
           - run/formats/index.md
           - Pop-up hack day: run/formats/pop-up.md
           - Hack day (1 day): run/formats/hack-day.md
           - 24 hours (2 days): run/formats/24-hour.md
           - 48 hours (3 days): run/formats/48-hour.md
-      - Participant experience: run/experience.md
-      - Ways to participate: run/participation.md
-      - Planning checklist: run/planning.md
-      - Hackathon guide: run/hackathon-guide.md
-      - Judging and prizes: run/judging-and-prizes.md
-      - Code of Conduct: run/code-of-conduct.md
-      - After the event: run/after.md
-  - Build:
-      - build/index.md
+      - Guides:
+          - run/index.md
+          - Participant experience: run/experience.md
+          - Ways to participate: run/participation.md
+          - Planning checklist: run/planning.md
+          - Hackathon guide: run/hackathon-guide.md
+          - Judging and prizes: run/judging-and-prizes.md
+          - Code of Conduct: run/code-of-conduct.md
+          - After the event: run/after.md
+          - Starter kits: build/index.md

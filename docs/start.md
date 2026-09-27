@@ -19,23 +19,30 @@ Pick what describes you. Each path is a few short steps, in order. You don't nee
 
 === "I'm organizing"
 
-    1. **Choose a format:** pop-up, hack day, 24 hours, or 48 hours. [Choose a format](run/formats/index.md)
-    2. **Design the experience** before the schedule. [The participant experience](run/experience.md)
-    3. **Plan with partners** using the checklist in your planning meetings. [Planning checklist](run/planning.md)
-    4. **Write the challenges** with your partners. [Challenge briefs](challenges/index.md)
-    5. **Plan the follow-up** before the event starts. [After the event](run/after.md)
+    Follow the **[Organize track](organize/index.md)**: seven short steps, one page each.
 
-=== "I want to bring a challenge"
+    1. [Choose your format](organize/format.md)
+    2. [Decide how people take part](organize/participation.md)
+    3. [Bring in partners](organize/partners.md)
+    4. [Design the experience](organize/experience.md)
+    5. [Prepare](organize/prepare.md)
+    6. [Host the day](organize/host.md)
+    7. [Follow up and celebrate](organize/follow-up.md)
 
-    1. **See what you get,** and what it takes. [Bring a challenge](partner/index.md)
-    2. **Look at real examples** from Hack Michigan. [DTE Energy](challenges/examples/dte-energy.md)
-    3. **Draft your brief** with the builder. [Brief builder](challenges/brief-builder.md)
-    4. **Decide what you'll measure.** [Outcomes](partner/outcomes.md)
+=== "I'm a sponsor or partner"
+
+    Follow the **[Partner track](partner/index.md)**: five short steps, one page each.
+
+    1. [Choose how you'll take part](partner/ways-to-partner.md)
+    2. [Shape your challenge](partner/shape-your-challenge.md)
+    3. [Show up for the teams](partner/event-day.md)
+    4. [Follow up](partner/follow-up.md)
+    5. [Measure outcomes](partner/outcomes.md)
 
 === "I'm with a university"
 
-    1. **Pick a format** that fits your calendar. [Choose a format](run/formats/index.md)
-    2. **Bring in industry and community partners** to co-create challenges. [Bring a challenge](partner/index.md)
+    1. **Pick a format** that fits your calendar. [Choose your format](organize/format.md)
+    2. **Bring in industry and community partners** to co-create challenges. [Bring in partners](organize/partners.md)
     3. **Use the workshop and workbook** with students. [Workshop decks](win/decks.md)
     4. **Plan outcomes** students can put in a portfolio. [Outcomes](partner/outcomes.md)
 
