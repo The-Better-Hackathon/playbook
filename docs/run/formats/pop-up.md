@@ -1,6 +1,6 @@
 # Pop-Up Hack Day
 
-A free, one-day, low-barrier meetup in a public space. People bring whatever they're working on, build alongside each other, and demo their progress at the end of the day. No challenge brief, no judging, no pressure.
+A free, low-barrier meetup in a public space, usually 4 to 8 hours. People bring whatever they're working on, build alongside each other, and demo their progress at the end of the day. No challenge brief, no judging, no pressure.
 
 In Detroit, pop-ups happen in places that belong to everyone: **Campus Martius**, **Michigan Central**, the **Detroit Institute of Arts**, and the **Detroit Public Library**. Hacking in public spaces is a way to reclaim the city's spaces for its community, and to show people walking by that technology is built here, by people like them.
 

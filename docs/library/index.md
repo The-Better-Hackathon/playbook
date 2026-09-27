@@ -25,10 +25,10 @@ Using the playbook for your own event? See [Using and crediting the playbook](cr
 | Page | What's in it |
 |---|---|
 | [Choose a format](../run/formats/index.md) | All four formats side by side |
-| [Pop-up hack day](../run/formats/pop-up.md) | A free community meetup in a public space |
-| [Hack day](../run/formats/hack-day.md) | One day, with a sample schedule |
-| [24 hours](../run/formats/24-hour.md) | Two days, overnight |
-| [48 hours](../run/formats/48-hour.md) | Three days, the Hack Michigan format |
+| [Pop-up hack day](../run/formats/pop-up.md) | A free 4- to 8-hour community meetup in a public space |
+| [Hack day](../run/formats/hack-day.md) | 12 hours in one day, with a sample schedule |
+| [24 hours](../run/formats/24-hour.md) | 24 hours over two days, overnight |
+| [48 hours](../run/formats/48-hour.md) | 48 hours over three days, the Hack Michigan format |
 
 ## Guides
 

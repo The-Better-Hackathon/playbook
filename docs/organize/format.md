@@ -12,10 +12,10 @@ Your format decides almost everything else: the schedule, meals, whether there's
 
     | Format | Length | Best for |
     |---|---|---|
-    | [Pop-up](../run/formats/pop-up.md) | A few hours in a public space | Newcomers, community between events |
-    | [Hack day](../run/formats/hack-day.md) | One day | First events, conference add-ons, enterprise hack days |
-    | [24 hours](../run/formats/24-hour.md) | Two days, overnight | University and community hackathons |
-    | [48 hours](../run/formats/48-hour.md) | Three days | Industry challenges with real depth |
+    | [Pop-up](../run/formats/pop-up.md) | 4 to 8 hours in a public space | Newcomers, community between events |
+    | [Hack day](../run/formats/hack-day.md) | 12 hours, one day | First events, conference add-ons, enterprise hack days |
+    | [24 hours](../run/formats/24-hour.md) | 24 hours over two days | University and community hackathons |
+    | [48 hours](../run/formats/48-hour.md) | 48 hours over three days | Industry challenges with real depth |
 
 4. **Pick a date and place.** Check for conflicts like home football weekends, holidays, and other local events.
 5. **Pick a name your community owns,** so the event can grow year over year.

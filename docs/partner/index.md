@@ -88,6 +88,6 @@ See how to [measure and report outcomes](outcomes.md).
 
 | If you want… | Choose |
 |---|---|
-| An internal or partner hack day, or an add-on to a conference | [Hack day (1 day)](../run/formats/hack-day.md) |
+| An internal or partner hack day, or an add-on to a conference | [Hack day (12 hours)](../run/formats/hack-day.md) |
 | A track at a university or community hackathon | [24 hours (2 days)](../run/formats/24-hour.md) |
 | Deep work on a hard, data-heavy challenge | [48 hours (3 days)](../run/formats/48-hour.md) |

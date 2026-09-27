@@ -1,6 +1,6 @@
 # 48 Hours (3 Days)
 
-About 40 to 48 hours of building across three days. This is the Hack Michigan format: the depth sponsor challenges need, with time for workshops, mentoring, and rest. The schedule below is Hack Michigan 2026 (May 15–17, TechTown Detroit). Swap in your own workshops and times; keep the shape.
+A 48-hour hackathon over three days. This is the Hack Michigan format: the depth sponsor challenges need, with time for workshops, mentoring, and rest. The schedule below is Hack Michigan 2026 (May 15–17, TechTown Detroit). Swap in your own workshops and times; keep the shape.
 
 ## Day 1: Welcome and set up
 

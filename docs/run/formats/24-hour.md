@@ -1,6 +1,6 @@
 # 24 Hours (2 Days)
 
-About 24 hours of building over a weekend, with hacking overnight. This was the format for the A2Tech360 Local Impact track and Hack Dearborn, and it is the most common shape for university and community hackathons.
+A 24-hour hackathon over two days, with hacking overnight. This was the format for the A2Tech360 Local Impact track and Hack Dearborn, and it is the most common shape for university and community hackathons.
 
 ## Sample schedule
 

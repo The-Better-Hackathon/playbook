@@ -1,6 +1,6 @@
-# Hack Day (1 Day)
+# Hack Day (12 Hours)
 
-About eight hours of building in a single day. This is the format for the AI Hackathon on the Friday of Michigan DevFest, and it works well for first events, conference add-ons, and campus or corporate hack days.
+A 12-hour hackathon in a single day, with no overnight. This is the format for the AI Hackathon on the Friday of Michigan DevFest, and it works well for first events, conference add-ons, and campus or corporate hack days.
 
 ## Sample schedule
 
@@ -20,7 +20,7 @@ About eight hours of building in a single day. This is the format for the AI Hac
 ## What's different about a hack day
 
 - **Send the hackathon guide early.** There is no time to troubleshoot accounts on the day. Teams should arrive with accounts and credits working.
-- **Keep challenges tight.** One or two, with a clear test a team can hit in eight hours.
+- **Keep challenges tight.** One or two, with a clear test a team can hit in a single day.
 - **Workshops are open to everyone.** A track is defined by its problem and its prizes, not by who can attend which session.
 - **Pre-screen, then present.** Judges review submissions between code freeze and the deadline, and only the top projects present live. Tell the non-finalists so they can head home, and collect feedback with a QR code at the exit.
 - **Skip the happy hour.** In a one-day format, lunch and the awards are the social moments. If the event becomes overnight, move the happy hour to the first evening.

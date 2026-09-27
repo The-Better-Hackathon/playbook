@@ -6,7 +6,7 @@
 *[provisioning]: Setting up accounts, cloud credits, and tool access for participants
 *[challenge brief]: A short public document describing a real problem, what good looks like, the data, and how it will be judged
 *[starter kit]: A public repo with the challenge, setup steps, resources, and a template to build from
-*[hack day]: A one-day hackathon, about eight hours of building
+*[hack day]: A 12-hour hackathon in a single day, with no overnight
 *[write-up]: A public project page with the problem, solution, presentation, and demo
 *[write-ups]: Public project pages with the problem, solution, presentation, and demo
-*[pop-up]: A free, one-day community meetup in a public space where people build their own projects and demo their progress
+*[pop-up]: A free, 4- to 8-hour community meetup in a public space where people build their own projects and demo their progress

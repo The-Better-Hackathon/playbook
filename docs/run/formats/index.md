@@ -4,7 +4,7 @@
 <div class="pb-banner-text" markdown>
 <span class="pb-banner-kicker">For organizers and partners</span>
 
-**Hack day, 24 hours, or 48 hours: same model, different depth.**
+**From a 4-hour pop-up to a 48-hour, three-day event.**
 </div>
 ![](../../assets/img/plant.png)
 </div>
@@ -13,8 +13,8 @@ The model works at four sizes, from a free pop-up in a public space to a three-d
 
 | | [Pop-up](pop-up.md) | [Hack day](hack-day.md) | [24 hours](24-hour.md) | [48 hours](48-hour.md) |
 |---|---|---|---|---|
-| **Shape** | One day in a public space | One day, about 8 AM to 9 PM | Two days, overnight | Three days, two nights |
-| **Hacking time** | A few hours, come and go | About 8 hours | About 24 hours | About 40 to 48 hours |
+| **Length** | 4 to 8 hours | 12 hours | 24 hours | 48 hours |
+| **Shape** | Part of a day in a public space | One day, no overnight | Two days, overnight | Three days, two nights |
 | **Example** | Detroit pop-ups at Campus Martius, Michigan Central, the DIA, and the Detroit Public Library | Michigan DevFest + AI Hackathon (the Friday before the conference) | A2Tech360 Local Impact track, Hack Dearborn | Hack Michigan |
 | **Best for** | Newcomers, keeping the community connected between events, bringing tech into public spaces | Conference add-ons, first events, enterprise and partner hack days, campus hack days, people who can't stay overnight | University and community hackathons, a partner's track inside a larger event | Industry challenges that need real depth, flagship regional events |
 | **Challenges** | None: bring your own project | One or two, tightly scoped | A few tracks or challenges | Several sponsor challenges |
