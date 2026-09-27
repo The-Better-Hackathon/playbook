@@ -1,0 +1,95 @@
+site_name: The Better Hackathon Playbook
+site_description: A playbook for challenge-led hackathons that turn real industry problems into working prototypes, talent, and partnerships.
+site_author: Jenna Ritten
+# site_url: set this to the GitHub Pages URL once the repo exists
+repo_name: The Better Hackathon Playbook
+# repo_url: set this to the GitHub repo URL once it exists
+edit_uri: ""
+copyright: Created by Jenna Ritten (@jritten) · Compass Detroit
+
+theme:
+  name: material
+  custom_dir: overrides
+  language: en
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  font:
+    text: DM Sans
+    code: IBM Plex Mono
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - toc.follow
+  icon:
+    logo: material/compass-outline
+
+extra_css:
+  - assets/css/playbook.css
+extra_javascript:
+  - assets/js/workbook.js
+  - assets/js/brief-builder.js
+  - assets/js/forms.js
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+nav:
+  - Home: index.md
+  - Partner:
+      - partner/index.md
+      - Outcomes: partner/outcomes.md
+  - Challenges:
+      - challenges/index.md
+      - Brief template: challenges/brief-template.md
+      - Brief builder: challenges/brief-builder.md
+      - Examples:
+          - DTE Energy: challenges/examples/dte-energy.md
+          - StartMidwest: challenges/examples/startmidwest.md
+          - The AI Collective Detroit: challenges/examples/ai-collective.md
+          - Michigan Innovation Renaissance: challenges/examples/michigan-renaissance.md
+  - Win:
+      - win/index.md
+      - Team workbook: win/workbook.md
+      - Submit and demo: win/submit.md
+      - Resources: win/resources.md
+      - Workshop decks: win/decks.md
+  - Run:
+      - run/index.md
+      - Formats:
+          - run/formats/index.md
+          - Hack day (1 day): run/formats/hack-day.md
+          - 24 hours (2 days): run/formats/24-hour.md
+          - 48 hours (3 days): run/formats/48-hour.md
+      - Planning checklist: run/planning.md
+      - Hackathon guide: run/hackathon-guide.md
+      - Judging and prizes: run/judging-and-prizes.md
+      - Code of Conduct: run/code-of-conduct.md
+      - After the event: run/after.md
+  - Build:
+      - build/index.md
