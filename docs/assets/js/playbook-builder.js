@@ -128,7 +128,7 @@
       '2. A planning timeline with real dates, counting back from the event date',
       '3. Team roles, with an owner for every participant touchpoint',
       '4. A partner packet and a draft challenge brief for each partner, with the solution left to the teams',
-      '5. A detailed event-day schedule with times',
+      '5. A detailed event-day schedule with times, including a Design for AI workshop before hacking begins',
       '6. A participant hackathon guide: tools, provisioning, data rules, and what to submit',
       '7. Judging criteria for each track',
       '8. Emails: registration confirmation, the week before, and the thank-you after',

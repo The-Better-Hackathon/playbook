@@ -55,7 +55,7 @@ Produce these documents, filled in with the organizer's details:
 2. **Timeline:** real dates, counting back from the event date. Use the lead time for the format: about 2 to 4 weeks for a pop-up, 6 to 8 for a hack day, 8 to 10 for 24 hours, 10 to 12 for 48 hours.
 3. **Team roles:** an owner for every touchpoint, from the website to follow-up.
 4. **Partner packet:** what partners get, what they provide, and the timeline. Add a draft challenge brief for each partner, in the seven-section format, with the solution left to the teams.
-5. **Event-day schedule:** times for every block, based on the format's sample schedule.
+5. **Event-day schedule:** times for every block, based on the format's sample schedule. Every schedule includes a Design for AI workshop, open to all, before hacking begins.
 6. **Participant guide:** tools and provisioning, data rules, the Code of Conduct, and what to submit.
 7. **Judging:** criteria for each track, and how judging runs for the format.
 8. **Emails:** registration confirmation, the week before, and the thank-you after.

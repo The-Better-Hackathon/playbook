@@ -8,8 +8,9 @@ A sample one-day AfroHacks with both paths. Adjust the times to your format.
 |---|---|---|
 | 9:00 AM | Check-in and breakfast | Check-in and breakfast |
 | 9:45 AM | Welcome: why AfroHacks, the two paths, the Code of Conduct | Same room |
-| 10:15 AM | Team formation, challenges, and tool setup | Setup session and meet the maintainers |
-| 11:00 AM | Build | Contribute |
+| 10:15 AM | **Design for AI** workshop (open to all) | Same room |
+| 11:00 AM | Team formation, challenges, and tool setup | Setup session and meet the maintainers |
+| 11:45 AM | Build | Contribute |
 | 12:30 PM | Lunch and career connections with mentors and partners | Same room |
 | 1:30 PM | How to Win workshop, then build | Office hours with maintainers |
 | 4:30 PM | Code freeze | Final pull requests |

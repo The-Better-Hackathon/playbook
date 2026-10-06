@@ -9,9 +9,10 @@ A 24-hour hackathon over two days, with hacking overnight. This was the format f
 | Time | Block | Notes |
 |---|---|---|
 | 9:00 AM | Check-in and networking | |
-| 10:00 AM | Opening and keynote | Keep it to about an hour |
-| 11:00 AM | Hackathon briefing | Rules, tracks, prizes, sponsor resources, judging, how to submit |
-| 11:30 AM | Team formation and track selection | |
+| 10:00 AM | Opening and keynote | Keep it to about 45 minutes |
+| 10:45 AM | Hackathon briefing | Rules, tracks, prizes, sponsor resources, judging, how to submit |
+| 11:00 AM | **Design for AI** workshop (open to all) | Teams start from the user, not the model |
+| 11:45 AM | Team formation and track selection | |
 | **12:00 PM** | **Hacking begins** | All code must be written after this |
 | 1:00 PM | Lunch | |
 | 2:00 PM | Workshops (tools, sponsors, How to Win) | Centralized for everyone, or in parallel rooms by track |
@@ -33,6 +34,7 @@ A 24-hour hackathon over two days, with hacking overnight. This was the format f
 
 ## What's different about 24 hours
 
+- **Run Design for AI before hacking begins,** so teams form around a user and a problem. See the [Design for AI](../../participate/resources.md#design-pitch-and-developer) resources.
 - **Add a draft checkpoint.** A morning draft deadline means every team has something submitted before the final push, and judges can start reading early.
 - **Workshops can run centralized or in parallel.** Weekend events usually have rooms to spare. Run tool workshops for everyone, and track workshops in their own rooms.
 - **Set up a Discord** (or similar) with announcements, help channels, and a channel per track.

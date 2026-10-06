@@ -10,7 +10,7 @@ Run it like any hack day, with the conference as an advantage.
 2. **Let hackers step out** for a keynote or two, and plan around it.
 3. **Keep the room separate and quiet enough to build,** with power, Wi-Fi, food, and signs from the conference floor.
 4. **Pre-screen before judging** so only finalists go to the main stage.
-5. **Coach teams** with the [How to Win workshop](../participate/index.md), sized for a hack day.
+5. **Run the Design for AI workshop before hacking begins,** then coach teams with the [How to Win workshop](../participate/index.md), sized for a hack day.
 
 ## Go deeper
 

@@ -9,7 +9,8 @@ A sample one-day open source hackathon. Adjust the times to your [format](../lib
 | 9:00 AM | Check-in and breakfast |
 | 9:30 AM | Welcome: the three paths, the projects, the rules, and the Code of Conduct |
 | 10:00 AM | Maintainers introduce their projects and challenges (two minutes each) |
-| 10:30 AM | Setup session, then build and contribute |
+| 10:30 AM | **Design for AI** workshop (open to all): design AI features people can understand and trust |
+| 11:15 AM | Setup session, then build and contribute |
 | 12:30 PM | Lunch |
 | 1:30 PM | Maintainer review windows: pull requests get reviewed while people are still in the room |
 | 4:30 PM | Final pull requests and submissions |

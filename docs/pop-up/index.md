@@ -17,7 +17,8 @@ In Detroit, pop-ups happen in places that belong to everyone: **Campus Martius**
 |---|---|---|
 | 10:00 AM | Arrive and set up | Greeters at the entrance; sign-in with a QR code |
 | 10:30 AM | Welcome circle | Everyone says their name and what they're working on in one sentence |
-| 11:00 AM | Build | Organizers and volunteers walk the room and connect people who can help each other |
+| 11:00 AM | **Design for AI** workshop (open to all) | 30 minutes: start from a person and their problem, not the model |
+| 11:30 AM | Build | Organizers and volunteers walk the room and connect people who can help each other |
 | 12:30 PM | Lunch | Keep it simple and label what's in it |
 | 1:30 PM | Build | Optional short lightning talk or skill share |
 | 3:30 PM | Show and tell | Anyone who wants to demos their progress in two or three minutes |

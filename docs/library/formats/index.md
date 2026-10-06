@@ -18,7 +18,7 @@ The model works at four sizes, from a free pop-up in a public space to a three-d
 | **Example** | Detroit pop-ups at Campus Martius, Michigan Central, the DIA, and the Detroit Public Library | Michigan DevFest + AI Hackathon (the Friday before the conference) | A2Tech360 Local Impact track, Hack Dearborn | Hack Michigan |
 | **Best for** | Newcomers, keeping the community connected between events, bringing tech into public spaces | Conference add-ons, first events, enterprise and partner hack days, campus hack days, people who can't stay overnight | University and community hackathons, a partner's track inside a larger event | Industry challenges that need real depth, flagship regional events |
 | **Challenges** | None: bring your own project | One or two, tightly scoped | A few tracks or challenges | Several sponsor challenges |
-| **Workshops** | Optional lightning talk or skill share | Short and mostly before building starts | Day one, alongside building | Spread over the first two days |
+| **Workshops** | Design for AI (30 minutes), plus an optional lightning talk or skill share | Design for AI before building starts, then short sponsor workshops | Design for AI before building starts, more on day one | Design for AI on day one, more over the first two days |
 | **How to Win** | Not needed | 30-minute version, first thing | 45 to 60 minutes, once teams have an idea | Full 60 minutes on the morning of day two |
 | **Judging** | None: show and tell | Pre-screen, then finalists present | Every team presents, often in rooms | Every team presents; winners go to a bigger stage |
 | **Social** | Welcome circle, lunch, group photo | Lunch, and awards at the end | Dinner the first night | Happy hour, dinner, movie night, morning yoga |

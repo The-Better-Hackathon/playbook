@@ -7,7 +7,7 @@ The shape of the day is the same in every challenge-led format. Only the timing 
 ## Do this
 
 1. **Welcome people** at the door, and open with the challenges presented by the partners who wrote them.
-2. **Run the tools and provisioning session** before building starts.
+2. **Run the tools and provisioning session and the Design for AI workshop** before building starts, so teams start from the user, not the model.
 3. **Run [How to Win a Hackathon](../participate/index.md)** once teams have an idea, and share the [team workbook](../participate/workbook.md).
 4. **Keep help close:** office hours, mentors walking the room, and calm announcements about time left.
 5. **Code freeze** before the deadline, then time to finish presentations.
