@@ -12,6 +12,23 @@ Partners bring the real problems, the tools, and the next steps that make a hack
 4. **Write the challenge brief yourself,** with the solution taken out, and review it with the partner.
 5. **Confirm tools and credits** with technology partners, and how accounts will be provisioned from your registration list.
 
+## Package the ask
+
+Lead with the challenge. Then make it easy for each partner to support the event in the way that fits them.
+
+- **Offer three packages** that build on each other, plus custom options. Map them to the [ways to partner](../partner/ways-to-partner.md): for example, a workshop and tools; then a challenge with a prize; then a challenge, a meal or venue, and a stage for the winners.
+- **Keep the top package at no more than a quarter of your budget,** so no single partner carries the event.
+- **Pitch the right team:** developer relations wants builders using its tools and their feedback; recruiting wants people to hire; marketing and employee resource groups want visibility and community; foundations and economic development want outcomes for the region.
+- **Weigh in-kind offers honestly.** Count a product or service at what you would really have paid for it, not its list price.
+
+### Reaching out
+
+1. **Keep the first email short,** personal, and without attachments or links, so it isn't filtered. Send the [partner packet](../partner/index.md) after they reply.
+2. **Follow up up to three times,** one to two weeks apart (three or four days if the event is close).
+3. **On the call,** ask what they hope to get from it and what they've done before, and book the next step before you hang up.
+4. **Send a proposal the same day,** tailored to what they said, with a date to decide by.
+5. **Track every partner** in one shared sheet: contact, stage, package, and next step. Send the agreement and invoice when they say yes.
+
 ## Go deeper
 
 - [Co-created AI challenges](../challenges/index.md): the method
@@ -20,3 +37,5 @@ Partners bring the real problems, the tools, and the next steps that make a hack
 
 !!! success "Ready for the next step when"
     Each partner has reviewed their brief, and you know which tools and credits participants will get.
+
+<small>The outreach steps draw on [MLH's Hackathon Organizer Guide](https://guide.mlh.com/).</small>

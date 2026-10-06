@@ -5,7 +5,8 @@ What to settle with your organizers, sponsors, and partners before the event. Th
 ## Decide early
 
 - [ ] **Format:** hack day, 24 hours, or 48 hours. Overnight vs. single day decides the schedule, meals, code freeze, and social events. See [Choose a format](formats/index.md).
-- [ ] **Date and venue:** check for conflicts like home football weekends, and pick a venue with easy parking.
+- [ ] **Date and venue:** check for conflicts like home football weekends, exams, school breaks, and other hackathons serving the same community. Pick a venue with easy parking. See [Budget and logistics](budget-and-logistics.md#venue).
+- [ ] **Safety:** insurance, waivers, minors, and an emergency plan. See [Safety and emergency plan](safety.md).
 - [ ] **Name:** choose a name your own community owns, so the event can grow year over year and stays independent of any one partner's brand.
 - [ ] **Anchor moment:** a tech week, conference, or summit gives you a stage for winners and a built-in audience.
 
@@ -15,6 +16,21 @@ What to settle with your organizers, sponsors, and partners before the event. Th
 - [ ] **Collect what sponsors need:** name, email, company or school, role, city, and optional demographic information. Sponsors use this to justify their spend and to follow up.
 - [ ] **Test the form** before marketing starts. A required field that shouldn't be (like a dietary checkbox) can block sign-ups.
 - [ ] **Registration is how provisioning works.** Sponsors provision accounts and credits from the list, so it has to be accurate and on time.
+- [ ] **Use dropdowns** for school, organization, and country, so the data stays clean.
+- [ ] **Add consent checkboxes** for the Code of Conduct, sharing data with partners, and photos.
+
+## Registration numbers
+
+Free events lose about half their registrants between sign-up and the day. Plan for it.
+
+| When | Registrations, as a share of the people you want in the room |
+|---|---|
+| 2 weeks out | About 100% |
+| 1 week out | About 200%, and no more |
+
+- **Favor people nearby.** They are the most likely to come.
+- **Send few reminders:** one when registration opens, one update with what's happening, then a role-specific email 7 days out to participants, partners, volunteers, mentors, and judges.
+- **Plan food and swag for attendance, not registrations.** See [Budget and logistics](budget-and-logistics.md#plan-for-who-actually-shows-up).
 
 ## Sponsors, tools, and provisioning
 
@@ -44,7 +60,7 @@ See [Judging and prizes](judging-and-prizes.md).
 
 ## Communications
 
-- [ ] Shared drive for all event materials.
+- [ ] Shared drive for all event materials, owned by an event email account (not a person), so it passes to next year's team. Copy that account on partner emails.
 - [ ] Flyers and a website with every partner's logo, before newsletters and social posts go out.
 - [ ] A Discord (or similar) with announcements, help, and track channels.
 
@@ -59,6 +75,12 @@ Sometimes you host a track inside a larger hackathon instead of running your own
 - [ ] **Decision-making:** who plans what, and how much say your group has.
 - [ ] **Talk to others who've done it.** Ask another group that ran a track in the same series what they did and didn't control.
 
+## Day-of operations
+
+- [ ] A run of show with an owner for every role. See [Run of show and staffing](run-of-show.md).
+- [ ] A walkthrough at the venue with every lead.
+- [ ] An emergency plan printed at the help desk. See [Safety and emergency plan](safety.md).
+
 ## Planning meetings
 
 A short recurring "reconnect" keeps everyone aligned. A standing agenda:
@@ -70,3 +92,7 @@ A short recurring "reconnect" keeps everyone aligned. A standing agenda:
 5. Submissions and judging
 6. Prizes and budget
 7. Next steps: owner and date for each
+
+---
+
+<small>Registration numbers draw on [MLH's Hackathon Organizer Guide](https://guide.mlh.com/).</small>

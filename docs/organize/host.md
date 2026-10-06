@@ -16,6 +16,7 @@ The shape of the day is the same in every challenge-led format. Only the timing 
 ## Go deeper
 
 - Sample schedules: [pop-up](../pop-up/index.md), [hack day](../library/formats/hack-day.md), [24 hours](../library/formats/24-hour.md), [48 hours](../library/formats/48-hour.md)
+- [Run of show and staffing](../library/run-of-show.md)
 - [Workshop decks](../participate/decks.md)
 
 !!! success "Ready for the next step when"

@@ -90,9 +90,14 @@ A track is a way to take part, with its own goal, judging, and prizes. Most even
     - **Judge on:** learning and completion, with prizes only beginners can win
 
 ??? abstract "Hardware and makers"
-    Teams build with microcontrollers, sensors, and single-board computers.
+    Teams build with microcontrollers, sensors, and single-board computers. Hardware needs more time than software: plan about a third of build time for assembly and fitting parts together.
 
     - **Prepare:** a hardware library to borrow from, soldering and safety rules, and a maker space or lab
+    - **Run the library:** label every part, log who borrows what, and hold an ID until it comes back. Staff it in shifts, near the help desk
+    - **Start with basics:** microcontroller boards, single-board computers, sensor kits, breadboards, and wires. Test every kit before handing it out, and pre-solder headers
+    - **Set up zones:** assembly, testing, and fabrication (3D printers, laser cutters), with trained supervisors at hot tools
+    - **Plan demos:** projects that move on a tray or cart, a short reset checklist, and backup video in case something breaks
+    - **Ask participants** to install drivers and software before they arrive
     - **Judge on:** a working device, creativity, and usefulness
 
 ??? abstract "Sustainability"

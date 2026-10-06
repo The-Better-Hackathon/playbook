@@ -37,9 +37,12 @@ Using the playbook for your own event? See [Using and crediting the playbook](cr
 | [The participant experience](experience.md) | Every touchpoint, stage by stage |
 | [Ways to participate](participation.md) | Building a project or contributing to open source |
 | [Track options](tracks.md) | Capture the flag, bug bash, design sprint, and more |
-| [Planning checklist](planning.md) | For your planning meetings |
+| [Planning checklist](planning.md) | For your planning meetings, with registration numbers |
+| [Budget and logistics](budget-and-logistics.md) | Venue, budget, food, travel, and swag |
+| [Safety and emergency plan](safety.md) | Insurance, waivers, minors, and what to do when something goes wrong |
+| [Run of show and staffing](run-of-show.md) | Roles, check-in, the help desk, mentors, and the welcome |
 | [Hackathon guide template](hackathon-guide.md) | Tools, provisioning, and data rules for participants |
-| [Judging and prizes](judging-and-prizes.md) | Judges, criteria, and prizes |
+| [Judging and prizes](judging-and-prizes.md) | How many judges, two ways to judge, fair play, and prizes |
 | [Code of Conduct](code-of-conduct.md) | The Compass Code of Conduct |
 | [After the event](after.md) | Winners, write-ups, and follow-up |
 | [Starter kits](starter-kits.md) | What goes in one, and kits from past events |

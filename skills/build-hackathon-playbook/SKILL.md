@@ -42,7 +42,7 @@ Read the pages for the options they chose. Source files are in the repo at `http
 | Community Pop-up | `pop-up/index.md` |
 | Format | `library/formats/hack-day.md`, `24-hour.md`, or `48-hour.md` |
 | Tracks | `library/tracks.md` |
-| Every event | `library/experience.md`, `library/planning.md`, `library/hackathon-guide.md`, `library/judging-and-prizes.md`, `library/code-of-conduct.md`, `library/after.md`, `partner/outcomes.md` |
+| Every event | `library/experience.md`, `library/planning.md`, `library/budget-and-logistics.md`, `library/safety.md`, `library/run-of-show.md`, `library/hackathon-guide.md`, `library/judging-and-prizes.md`, `library/code-of-conduct.md`, `library/after.md`, `partner/outcomes.md` |
 | Challenges | `challenges/index.md`, `challenges/brief-template.md`, and `challenges/examples/` |
 
 If you can't fetch these files, work from the live pages at the same paths on the site.

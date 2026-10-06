@@ -30,3 +30,17 @@ The Hack Michigan 2026 winners presented at **Michigan Tech Week**, days after t
 - **Share on social.** Give everyone the event hashtags.
 - **Thank partners with results.** Send each partner the write-ups for their challenge, the teams they may want to meet, and an invitation to come back.
 - **Check in at 30 and 90 days** with finalist and winning teams, and share what's still going.
+
+## Close out and hand off
+
+Within a week, while it's fresh:
+
+1. **Survey participants and partners.** Keep it short, and send it within a few days.
+2. **Hold a retrospective** with the organizing team. Write down the feedback themes, the three biggest problems and how you'd fix them, and what helped most.
+3. **Close the books:** pay the last invoices, and note any line that ran over budget and why.
+4. **Collect photos, posts, and press** for next year's partner packet.
+5. **Hand off:** keep everything in the event's shared drive, owned by an event email account, so next year's team starts where you left off.
+
+---
+
+<small>The close-out steps draw on [MLH's Hackathon Organizer Guide](https://guide.mlh.com/).</small>

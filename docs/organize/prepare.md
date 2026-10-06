@@ -15,6 +15,7 @@ Publish what people need early, so everyone arrives ready to build.
 ## Go deeper
 
 - [Planning checklist](../library/planning.md): use it in your planning meetings
+- [Budget and logistics](../library/budget-and-logistics.md) and [Safety and emergency plan](../library/safety.md)
 - [Hackathon guide template](../library/hackathon-guide.md)
 - [Judging and prizes](../library/judging-and-prizes.md)
 - [Starter kits](../library/starter-kits.md)
